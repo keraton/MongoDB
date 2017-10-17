@@ -1,7 +1,6 @@
-# MongoDB
-Tutorial de MongoDB
+# MongoDB Tutorial
 
-- Acceso a datos
-- Esquemas
-- Rendimiento
-- Administración
+- Access to data
+- Schematics
+- Performance
+- Administration

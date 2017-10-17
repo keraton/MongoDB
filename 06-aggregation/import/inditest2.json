@@ -1,5102 +1,555 @@
 [
   {
     "_id": "552f8669dbf94af203835537",
-    "pais": "Mexico",
-    "cadena": "zarra",
-    "tienda": 4795,
-    "hora": "2015-03-26",
-    "importe": 4142.41,
-    "ubicacion": {
-      "planta": 1,
-      "seccion": "Caballero"
+    "country": "Mexico",
+    "string": "zarra",
+    "store": 4795,
+    "time": "2015-03-26",
+    "amount": 4142.41,
+    "location": {
+      "floor": 1,
+      "section": "Knight"
     },
-    "productos": [
+    "products": [
       "perfumes",
-      "complementos",
-      "complementos",
-      "complementos",
-      "complementos"
+      "add-ins",
+      "add-ins",
+      "add-ins",
+      "add-ons"
     ],
-    "lineas": [
+    "lines": [
       {
         "pvp": 235.63,
-        "unidades": 3,
-        "articulo": "traje",
+        "units": 3,
+        "item": "suit",
         "id": 0
       },
       {
         "pvp": 185.7,
-        "unidades": 3,
-        "articulo": "traje",
+        "units": 3,
+        "item": "suit",
         "id": 1
       },
       {
         "pvp": 37.64,
-        "unidades": 5,
-        "articulo": "vestido",
+        "units": 5,
+        "item": "clothing",
         "id": 2
       },
       {
         "pvp": 236.78,
-        "unidades": 5,
-        "articulo": "zapato",
+        "units": 5,
+        "item": "shoe",
         "id": 3
       },
       {
         "pvp": 200.67,
-        "unidades": 1,
-        "articulo": "colonia",
+        "units": 1,
+        "item": "cologne",
         "id": 4
       }
     ]
   },
   {
     "_id": "552f866909826adc562cd99f",
-    "pais": "Mexico",
-    "cadena": "puliber",
-    "tienda": 2904,
-    "hora": "2015-03-16",
-    "importe": 880.47,
-    "ubicacion": {
-      "planta": 1,
-      "seccion": "Señora"
+    "country": "Mexico",
+    "string": "puliber",
+    "store": 2904,
+    "time": "2015-03-16",
+    "amount": 880.47,
+    "location": {
+      "floor": 1,
+      "section": "Lady"
     },
-    "productos": [
-      "complementos",
-      "calzado",
-      "complementos",
+    "products": [
+      "add-ins",
+      "footwear",
+      "add-ins",
       "perfumes",
-      "complementos"
+      "add-ons"
     ],
-    "lineas": [
+    "lines": [
       {
         "pvp": 62.46,
-        "unidades": 4,
-        "articulo": "colonia",
+        "units": 4,
+        "item": "cologne",
         "id": 0
       },
       {
         "pvp": 186.89,
-        "unidades": 4,
-        "articulo": "gorro",
+        "units": 4,
+        "item": "hat",
         "id": 1
       },
       {
         "pvp": 164.59,
-        "unidades": 1,
-        "articulo": "vestido",
+        "units": 1,
+        "item": "clothing",
         "id": 2
       },
       {
         "pvp": 74.96,
-        "unidades": 2,
-        "articulo": "camisa",
+        "units": 2,
+        "item": "shirt",
         "id": 3
       },
       {
         "pvp": 160.47,
-        "unidades": 5,
-        "articulo": "camisa",
+        "units": 5,
+        "item": "shirt",
         "id": 4
       }
     ]
   },
   {
     "_id": "552f86698a28b9f3e15b459a",
-    "pais": "Japon",
-    "cadena": "zarra",
-    "tienda": 5419,
-    "hora": "2015-01-21",
-    "importe": 3285.47,
-    "ubicacion": {
-      "planta": 0,
-      "seccion": "Caballero"
+    "country": "Japan",
+    "string": "zarra",
+    "store": 5419,
+    "time": "2015-01-21",
+    "amount": 3285.47,
+    "location": {
+      "plant": 0,
+      "section": "Knight"
     },
-    "productos": [
-      "complementos",
-      "ropa",
+    "products": [
+      "add-ins",
+      "clothing",
       "perfumes",
       "perfumes",
       "perfumes"
     ],
-    "lineas": [
+    "lines": [
       {
         "pvp": 98.47,
-        "unidades": 4,
-        "articulo": "zapato",
+        "units": 4,
+        "item": "shoe",
         "id": 0
       },
       {
         "pvp": 122.81,
-        "unidades": 2,
-        "articulo": "zapato",
+        "units": 2,
+        "item": "shoe",
         "id": 1
       },
       {
         "pvp": 92.07,
-        "unidades": 1,
-        "articulo": "pantalón",
+        "units": 1,
+        "item": "pants",
         "id": 2
       },
       {
         "pvp": 277.86,
-        "unidades": 4,
-        "articulo": "vestido",
+        "units": 4,
+        "item": "clothing",
         "id": 3
       },
       {
         "pvp": 47.81,
-        "unidades": 3,
-        "articulo": "camisa",
+        "units": 3,
+        "item": "shirt",
         "id": 4
       }
     ]
   },
   {
     "_id": "552f86695d4716c6b61a83fe",
-    "pais": "Francia",
-    "cadena": "zarra",
-    "tienda": 7100,
-    "hora": "2015-03-13",
-    "importe": 9958.68,
-    "ubicacion": {
-      "planta": 1,
-      "seccion": "Caballero"
+    "country": "France",
+    "string": "zarra",
+    "store": 7100,
+    "time": "2015-03-13",
+    "amount": 9958.68,
+    "location": {
+      "floor": 1,
+      "section": "Knight"
     },
-    "productos": [
-      "calzado",
-      "complementos",
+    "products": [
+      "footwear",
+      "add-ins",
       "perfumes",
-      "complementos",
+      "add-ins",
       "perfumes"
     ],
-    "lineas": [
+    "lines": [
       {
         "pvp": 192.7,
-        "unidades": 2,
-        "articulo": "pantalón",
+        "units": 2,
+        "item": "pants",
         "id": 0
       },
       {
         "pvp": 160.65,
-        "unidades": 5,
-        "articulo": "zapato",
+        "units": 5,
+        "item": "shoe",
         "id": 1
       },
       {
         "pvp": 267.92,
-        "unidades": 4,
-        "articulo": "camisa",
+        "units": 4,
+        "item": "shirt",
         "id": 2
       },
       {
         "pvp": 269.89,
-        "unidades": 3,
-        "articulo": "chaqueta",
+        "units": 3,
+        "item": "jacket",
         "id": 3
       },
       {
         "pvp": 22.37,
-        "unidades": 3,
-        "articulo": "falda",
+        "units": 3,
+        "item": "skirt",
         "id": 4
       }
     ]
   },
   {
     "_id": "552f86695a05137af5889d78",
-    "pais": "Francia",
-    "cadena": "duti",
-    "tienda": 9371,
-    "hora": "2015-03-18",
-    "importe": 2595.53,
-    "ubicacion": {
-      "planta": 0,
-      "seccion": "Señora"
+    "country": "France",
+    "string": "duti",
+    "store": 9371,
+    "time": "2015-03-18",
+    "amount": 2595.53,
+    "location": {
+      "plant": 0,
+      "section": "Lady"
     },
-    "productos": [
-      "ropa",
-      "ropa",
+    "products": [
+      "clothing",
+      "clothing",
       "perfumes",
-      "ropa",
-      "complementos"
+      "clothing",
+      "add-ons"
     ],
-    "lineas": [
+    "lines": [
       {
         "pvp": 111.86,
-        "unidades": 1,
-        "articulo": "camisa",
+        "units": 1,
+        "item": "shirt",
         "id": 0
       },
       {
         "pvp": 202.38,
-        "unidades": 5,
-        "articulo": "zapato",
+        "units": 5,
+        "item": "shoe",
         "id": 1
       },
       {
         "pvp": 171.11,
-        "unidades": 4,
-        "articulo": "camisa",
+        "units": 4,
+        "item": "shirt",
         "id": 2
       },
       {
         "pvp": 173.27,
-        "unidades": 5,
-        "articulo": "colonia",
+        "units": 5,
+        "item": "cologne",
         "id": 3
       },
       {
         "pvp": 153.91,
-        "unidades": 3,
-        "articulo": "traje",
+        "units": 3,
+        "item": "suit",
         "id": 4
       }
     ]
   },
   {
     "_id": "552f8669d3d75cac77352673",
-    "pais": "UK",
-    "cadena": "bresca",
-    "tienda": 1544,
-    "hora": "2015-01-23",
-    "importe": 340.42,
-    "ubicacion": {
-      "planta": 1,
-      "seccion": "Niño"
+    "country": "UK",
+    "string": "bresca",
+    "store": 1544,
+    "time": "2015-01-23",
+    "amount": 340.42,
+    "location": {
+      "floor": 1,
+      "section": "Child"
     },
-    "productos": [
-      "complementos",
-      "complementos",
-      "complementos",
-      "calzado",
+    "products": [
+      "add-ins",
+      "add-ins",
+      "add-ins",
+      "footwear",
       "perfumes"
     ],
-    "lineas": [
+    "lines": [
       {
         "pvp": 194.47,
-        "unidades": 1,
-        "articulo": "colonia",
+        "units": 1,
+        "item": "cologne",
         "id": 0
       },
       {
         "pvp": 21.72,
-        "unidades": 2,
-        "articulo": "traje",
+        "units": 2,
+        "item": "suit",
         "id": 1
       },
       {
         "pvp": 249.83,
-        "unidades": 5,
-        "articulo": "camisa",
+        "units": 5,
+        "item": "shirt",
         "id": 2
       },
       {
         "pvp": 148.21,
-        "unidades": 2,
-        "articulo": "chaqueta",
+        "units": 2,
+        "item": "jacket",
         "id": 3
       },
       {
         "pvp": 208.96,
-        "unidades": 1,
-        "articulo": "camisa",
+        "units": 1,
+        "item": "shirt",
         "id": 4
       }
     ]
   },
   {
     "_id": "552f86691e40fe283759a86e",
-    "pais": "Mexico",
-    "cadena": "duti",
-    "tienda": 8976,
-    "hora": "2015-02-17",
-    "importe": 3484.26,
-    "ubicacion": {
-      "planta": 2,
-      "seccion": "Caballero"
+    "country": "Mexico",
+    "string": "duti",
+    "store": 8976,
+    "time": "2015-02-17",
+    "amount": 3484.26,
+    "location": {
+      "floor": 2,
+      "section": "Knight"
     },
-    "productos": [
+    "products": [
       "perfumes",
-      "ropa",
-      "ropa",
-      "ropa",
-      "calzado"
+      "clothing",
+      "clothing",
+      "clothing",
+      "footwear"
     ],
-    "lineas": [
+    "lines": [
       {
         "pvp": 99.43,
-        "unidades": 3,
-        "articulo": "falda",
+        "units": 3,
+        "item": "skirt",
         "id": 0
       },
       {
         "pvp": 137.77,
-        "unidades": 1,
-        "articulo": "chaqueta",
+        "units": 1,
+        "item": "jacket",
         "id": 1
       },
       {
         "pvp": 159.5,
-        "unidades": 1,
-        "articulo": "falda",
+        "units": 1,
+        "item": "skirt",
         "id": 2
       },
       {
         "pvp": 294.09,
-        "unidades": 1,
-        "articulo": "camiseta",
+        "units": 1,
+        "item": "t-shirt",
         "id": 3
       },
       {
         "pvp": 295.07,
-        "unidades": 1,
-        "articulo": "traje",
+        "units": 1,
+        "item": "suit",
         "id": 4
       }
     ]
   },
   {
     "_id": "552f8669419af57f6b45d599",
-    "pais": "UK",
-    "cadena": "zarra",
-    "tienda": 368,
-    "hora": "2015-01-10",
-    "importe": 1692.64,
-    "ubicacion": {
-      "planta": 2,
-      "seccion": "Niño"
+    "country": "UK",
+    "string": "zarra",
+    "store": 368,
+    "time": "2015-01-10",
+    "amount": 1692.64,
+    "location": {
+      "floor": 2,
+      "section": "Child"
     },
-    "productos": [
+    "products": [
       "perfumes",
-      "complementos",
-      "complementos",
-      "calzado",
-      "calzado"
+      "add-ins",
+      "add-ins",
+      "footwear",
+      "footwear"
     ],
-    "lineas": [
+    "lines": [
       {
         "pvp": 77.83,
-        "unidades": 1,
-        "articulo": "colonia",
+        "units": 1,
+        "item": "cologne",
         "id": 0
       },
       {
         "pvp": 220.95,
-        "unidades": 1,
-        "articulo": "traje",
+        "units": 1,
+        "item": "suit",
         "id": 1
       },
       {
         "pvp": 134.01,
-        "unidades": 4,
-        "articulo": "traje",
+        "units": 4,
+        "item": "suit",
         "id": 2
       },
       {
         "pvp": 52.5,
-        "unidades": 3,
-        "articulo": "camisa",
+        "units": 3,
+        "item": "shirt",
         "id": 3
       },
       {
         "pvp": 185.47,
-        "unidades": 5,
-        "articulo": "zapato",
+        "units": 5,
+        "item": "shoe",
         "id": 4
       }
     ]
   },
   {
     "_id": "552f866932d153ca0e06d616",
-    "pais": "China",
-    "cadena": "bresca",
-    "tienda": 5194,
-    "hora": "2015-03-01",
-    "importe": 6059.25,
-    "ubicacion": {
-      "planta": 1,
-      "seccion": "Señora"
+    "country": "China",
+    "string": "bresca",
+    "store": 5194,
+    "time": "2015-03-01",
+    "amount": 6059.25,
+    "location": {
+      "floor": 1,
+      "section": "Lady"
     },
-    "productos": [
-      "calzado",
-      "ropa",
-      "ropa",
-      "ropa",
-      "complementos"
+    "products": [
+      "footwear",
+      "clothing",
+      "clothing",
+      "clothing",
+      "add-ons"
     ],
-    "lineas": [
+    "lines": [
       {
         "pvp": 54.49,
-        "unidades": 2,
-        "articulo": "gorro",
+        "units": 2,
+        "item": "hat",
         "id": 0
       },
       {
         "pvp": 59.14,
-        "unidades": 1,
-        "articulo": "pantalón",
+        "units": 1,
+        "item": "pants",
         "id": 1
       },
       {
         "pvp": 178.89,
-        "unidades": 4,
-        "articulo": "falda",
+        "units": 4,
+        "item": "skirt",
         "id": 2
       },
       {
         "pvp": 247.18,
-        "unidades": 5,
-        "articulo": "pantalón",
+        "units": 5,
+        "item": "pants",
         "id": 3
       },
       {
         "pvp": 117.41,
-        "unidades": 3,
-        "articulo": "camisa",
+        "units": 3,
+        "item": "shirt",
         "id": 4
       }
     ]
   },
   {
     "_id": "552f86694234a3be45d9c149",
-    "pais": "Francia",
-    "cadena": "duti",
-    "tienda": 9649,
-    "hora": "2015-01-24",
-    "importe": 4658.41,
-    "ubicacion": {
-      "planta": 0,
-      "seccion": "Caballero"
+    "country": "France",
+    "string": "duti",
+    "store": 9649,
+    "time": "2015-01-24",
+    "amount": 4658.41,
+    "location": {
+      "plant": 0,
+      "section": "Knight"
     },
-    "productos": [
+    "products": [
       "perfumes",
-      "calzado",
-      "complementos",
+      "footwear",
+      "add-ins",
       "perfumes",
       "perfumes"
     ],
-    "lineas": [
+    "lines": [
       {
         "pvp": 228.97,
-        "unidades": 2,
-        "articulo": "pantalón",
+        "units": 2,
+        "item": "pants",
         "id": 0
       },
       {
         "pvp": 35.28,
-        "unidades": 4,
-        "articulo": "vestido",
+        "units": 4,
+        "item": "clothing",
         "id": 1
       },
       {
         "pvp": 269.81,
-        "unidades": 2,
-        "articulo": "gorro",
+        "units": 2,
+        "item": "hat",
         "id": 2
       },
       {
         "pvp": 205.89,
-        "unidades": 5,
-        "articulo": "pantalón",
+        "units": 5,
+        "item": "pants",
         "id": 3
       },
       {
         "pvp": 130.16,
-        "unidades": 4,
-        "articulo": "chaqueta",
+        "units": 4,
+        "item": "jacket",
         "id": 4
       }
     ]
   },
   {
     "_id": "552f866923a3d530b807ac62",
-    "pais": "Italia",
-    "cadena": "puliber",
-    "tienda": 1905,
-    "hora": "2015-03-13",
-    "importe": 6302.52,
-    "ubicacion": {
-      "planta": 1,
-      "seccion": "Caballero"
+    "country": "Italy",
+    "string": "puliber",
+    "store": 1905,
+    "time": "2015-03-13",
+    "amount": 6302.52,
+    "location": {
+      "floor": 1,
+      "section": "Knight"
     },
-    "productos": [
-      "ropa",
+    "products": [
+      "clothing",
       "perfumes",
-      "calzado",
-      "complementos",
+      "footwear",
+      "add-ins",
       "perfumes"
     ],
-    "lineas": [
+    "lines": [
       {
         "pvp": 282.91,
-        "unidades": 3,
-        "articulo": "zapato",
+        "units": 3,
+        "item": "shoe",
         "id": 0
       },
       {
         "pvp": 224.24,
-        "unidades": 1,
-        "articulo": "gorro",
+        "units": 1,
+        "item": "hat",
         "id": 1
       },
       {
         "pvp": 33.7,
-        "unidades": 3,
-        "articulo": "vestido",
+        "units": 3,
+        "item": "clothing",
         "id": 2
       },
       {
         "pvp": 277.09,
-        "unidades": 5,
-        "articulo": "falda",
+        "units": 5,
+        "item": "skirt",
         "id": 3
       },
       {
-        "pvp": 77.24,
-        "unidades": 1,
-        "articulo": "falda",
-        "id": 4
-      }
-    ]
-  },
-  {
-    "_id": "552f8669ee107dae323f3aca",
-    "pais": "USA",
-    "cadena": "zarra",
-    "tienda": 2700,
-    "hora": "2015-01-11",
-    "importe": 4975.17,
-    "ubicacion": {
-      "planta": 2,
-      "seccion": "Niño"
-    },
-    "productos": [
-      "perfumes",
-      "ropa",
-      "calzado",
-      "calzado",
-      "calzado"
-    ],
-    "lineas": [
-      {
-        "pvp": 50.68,
-        "unidades": 4,
-        "articulo": "colonia",
-        "id": 0
-      },
-      {
-        "pvp": 274.2,
-        "unidades": 2,
-        "articulo": "camisa",
-        "id": 1
-      },
-      {
-        "pvp": 284.87,
-        "unidades": 4,
-        "articulo": "vestido",
-        "id": 2
-      },
-      {
-        "pvp": 232.19,
-        "unidades": 1,
-        "articulo": "chaqueta",
-        "id": 3
-      },
-      {
-        "pvp": 275.79,
-        "unidades": 1,
-        "articulo": "gorro",
-        "id": 4
-      }
-    ]
-  },
-  {
-    "_id": "552f86690c95dc22da68abc3",
-    "pais": "USA",
-    "cadena": "puliber",
-    "tienda": 9519,
-    "hora": "2015-04-11",
-    "importe": 8626.24,
-    "ubicacion": {
-      "planta": 0,
-      "seccion": "Señora"
-    },
-    "productos": [
-      "complementos",
-      "calzado",
-      "ropa",
-      "ropa",
-      "complementos"
-    ],
-    "lineas": [
-      {
-        "pvp": 180.19,
-        "unidades": 3,
-        "articulo": "chaqueta",
-        "id": 0
-      },
-      {
-        "pvp": 208.94,
-        "unidades": 2,
-        "articulo": "traje",
-        "id": 1
-      },
-      {
-        "pvp": 33.08,
-        "unidades": 3,
-        "articulo": "pantalón",
-        "id": 2
-      },
-      {
-        "pvp": 95.85,
-        "unidades": 3,
-        "articulo": "gorro",
-        "id": 3
-      },
-      {
-        "pvp": 46.31,
-        "unidades": 5,
-        "articulo": "colonia",
-        "id": 4
-      }
-    ]
-  },
-  {
-    "_id": "552f86690c70cfe5a483d25f",
-    "pais": "Portugal",
-    "cadena": "bresca",
-    "tienda": 1805,
-    "hora": "2015-03-05",
-    "importe": 6453.85,
-    "ubicacion": {
-      "planta": 1,
-      "seccion": "Señora"
-    },
-    "productos": [
-      "complementos",
-      "complementos",
-      "complementos",
-      "ropa",
-      "perfumes"
-    ],
-    "lineas": [
-      {
-        "pvp": 237.36,
-        "unidades": 3,
-        "articulo": "colonia",
-        "id": 0
-      },
-      {
-        "pvp": 293.56,
-        "unidades": 4,
-        "articulo": "gorro",
-        "id": 1
-      },
-      {
-        "pvp": 19.37,
-        "unidades": 2,
-        "articulo": "gorro",
-        "id": 2
-      },
-      {
-        "pvp": 283.11,
-        "unidades": 3,
-        "articulo": "vestido",
-        "id": 3
-      },
-      {
-        "pvp": 24.02,
-        "unidades": 1,
-        "articulo": "falda",
-        "id": 4
-      }
-    ]
-  },
-  {
-    "_id": "552f8669a722affee6775ace",
-    "pais": "Francia",
-    "cadena": "duti",
-    "tienda": 9536,
-    "hora": "2015-03-16",
-    "importe": 3303.71,
-    "ubicacion": {
-      "planta": 2,
-      "seccion": "Niño"
-    },
-    "productos": [
-      "complementos",
-      "calzado",
-      "calzado",
-      "ropa",
-      "calzado"
-    ],
-    "lineas": [
-      {
-        "pvp": 35.04,
-        "unidades": 4,
-        "articulo": "vestido",
-        "id": 0
-      },
-      {
-        "pvp": 102.61,
-        "unidades": 4,
-        "articulo": "pantalón",
-        "id": 1
-      },
-      {
-        "pvp": 195.08,
-        "unidades": 2,
-        "articulo": "pantalón",
-        "id": 2
-      },
-      {
-        "pvp": 295.03,
-        "unidades": 3,
-        "articulo": "camisa",
-        "id": 3
-      },
-      {
-        "pvp": 224.67,
-        "unidades": 1,
-        "articulo": "traje",
-        "id": 4
-      }
-    ]
-  },
-  {
-    "_id": "552f866970119c07fc9b0f30",
-    "pais": "USA",
-    "cadena": "bresca",
-    "tienda": 1426,
-    "hora": "2015-02-03",
-    "importe": 9731.16,
-    "ubicacion": {
-      "planta": 1,
-      "seccion": "Niño"
-    },
-    "productos": [
-      "perfumes",
-      "perfumes",
-      "perfumes",
-      "ropa",
-      "complementos"
-    ],
-    "lineas": [
-      {
-        "pvp": 49.43,
-        "unidades": 1,
-        "articulo": "gorro",
-        "id": 0
-      },
-      {
-        "pvp": 288.55,
-        "unidades": 1,
-        "articulo": "zapato",
-        "id": 1
-      },
-      {
-        "pvp": 15.22,
-        "unidades": 3,
-        "articulo": "falda",
-        "id": 2
-      },
-      {
-        "pvp": 23.62,
-        "unidades": 3,
-        "articulo": "chaqueta",
-        "id": 3
-      },
-      {
-        "pvp": 237.76,
-        "unidades": 5,
-        "articulo": "chaqueta",
-        "id": 4
-      }
-    ]
-  },
-  {
-    "_id": "552f8669dcddfb10a341c9eb",
-    "pais": "Rusia",
-    "cadena": "bresca",
-    "tienda": 6002,
-    "hora": "2015-01-28",
-    "importe": 3299.39,
-    "ubicacion": {
-      "planta": 1,
-      "seccion": "Caballero"
-    },
-    "productos": [
-      "complementos",
-      "ropa",
-      "calzado",
-      "calzado",
-      "calzado"
-    ],
-    "lineas": [
-      {
-        "pvp": 163.13,
-        "unidades": 2,
-        "articulo": "traje",
-        "id": 0
-      },
-      {
-        "pvp": 195.13,
-        "unidades": 2,
-        "articulo": "colonia",
-        "id": 1
-      },
-      {
-        "pvp": 135.15,
-        "unidades": 1,
-        "articulo": "chaqueta",
-        "id": 2
-      },
-      {
-        "pvp": 65.83,
-        "unidades": 3,
-        "articulo": "vestido",
-        "id": 3
-      },
-      {
-        "pvp": 170.6,
-        "unidades": 1,
-        "articulo": "vestido",
-        "id": 4
-      }
-    ]
-  },
-  {
-    "_id": "552f8669f155e12f6f752692",
-    "pais": "UK",
-    "cadena": "duti",
-    "tienda": 9064,
-    "hora": "2015-02-08",
-    "importe": 3872.66,
-    "ubicacion": {
-      "planta": 1,
-      "seccion": "Caballero"
-    },
-    "productos": [
-      "perfumes",
-      "complementos",
-      "perfumes",
-      "ropa",
-      "perfumes"
-    ],
-    "lineas": [
-      {
-        "pvp": 117.48,
-        "unidades": 2,
-        "articulo": "falda",
-        "id": 0
-      },
-      {
-        "pvp": 117.91,
-        "unidades": 4,
-        "articulo": "pantalón",
-        "id": 1
-      },
-      {
-        "pvp": 117.16,
-        "unidades": 3,
-        "articulo": "falda",
-        "id": 2
-      },
-      {
-        "pvp": 140.25,
-        "unidades": 3,
-        "articulo": "zapato",
-        "id": 3
-      },
-      {
-        "pvp": 216.66,
-        "unidades": 1,
-        "articulo": "gorro",
-        "id": 4
-      }
-    ]
-  },
-  {
-    "_id": "552f86699f33bf2dce1358b5",
-    "pais": "China",
-    "cadena": "bresca",
-    "tienda": 1629,
-    "hora": "2015-02-14",
-    "importe": 1926.77,
-    "ubicacion": {
-      "planta": 2,
-      "seccion": "Caballero"
-    },
-    "productos": [
-      "calzado",
-      "ropa",
-      "calzado",
-      "perfumes",
-      "perfumes"
-    ],
-    "lineas": [
-      {
-        "pvp": 12.08,
-        "unidades": 3,
-        "articulo": "vestido",
-        "id": 0
-      },
-      {
-        "pvp": 261.38,
-        "unidades": 4,
-        "articulo": "chaqueta",
-        "id": 1
-      },
-      {
-        "pvp": 128.86,
-        "unidades": 3,
-        "articulo": "traje",
-        "id": 2
-      },
-      {
-        "pvp": 66.41,
-        "unidades": 1,
-        "articulo": "camisa",
-        "id": 3
-      },
-      {
-        "pvp": 208.57,
-        "unidades": 1,
-        "articulo": "zapato",
-        "id": 4
-      }
-    ]
-  },
-  {
-    "_id": "552f86697b36fa5b927ca562",
-    "pais": "España",
-    "cadena": "duti",
-    "tienda": 5135,
-    "hora": "2015-03-08",
-    "importe": 9040.96,
-    "ubicacion": {
-      "planta": 0,
-      "seccion": "Caballero"
-    },
-    "productos": [
-      "ropa",
-      "calzado",
-      "perfumes",
-      "ropa",
-      "ropa"
-    ],
-    "lineas": [
-      {
-        "pvp": 274.29,
-        "unidades": 2,
-        "articulo": "camiseta",
-        "id": 0
-      },
-      {
-        "pvp": 59.44,
-        "unidades": 5,
-        "articulo": "gorro",
-        "id": 1
-      },
-      {
-        "pvp": 79.72,
-        "unidades": 5,
-        "articulo": "pantalón",
-        "id": 2
-      },
-      {
-        "pvp": 113.55,
-        "unidades": 5,
-        "articulo": "pantalón",
-        "id": 3
-      },
-      {
-        "pvp": 104.8,
-        "unidades": 5,
-        "articulo": "camiseta",
-        "id": 4
-      }
-    ]
-  },
-  {
-    "_id": "552f86691aa6dc144341c3e7",
-    "pais": "Japon",
-    "cadena": "puliber",
-    "tienda": 5874,
-    "hora": "2015-04-14",
-    "importe": 7620.86,
-    "ubicacion": {
-      "planta": 1,
-      "seccion": "Caballero"
-    },
-    "productos": [
-      "complementos",
-      "perfumes",
-      "ropa",
-      "calzado",
-      "calzado"
-    ],
-    "lineas": [
-      {
-        "pvp": 105.97,
-        "unidades": 4,
-        "articulo": "vestido",
-        "id": 0
-      },
-      {
-        "pvp": 205.53,
-        "unidades": 4,
-        "articulo": "gorro",
-        "id": 1
-      },
-      {
-        "pvp": 60.18,
-        "unidades": 4,
-        "articulo": "chaqueta",
-        "id": 2
-      },
-      {
-        "pvp": 39.57,
-        "unidades": 4,
-        "articulo": "colonia",
-        "id": 3
-      },
-      {
-        "pvp": 47.76,
-        "unidades": 2,
-        "articulo": "falda",
-        "id": 4
-      }
-    ]
-  },
-  {
-    "_id": "552f8669d25c118d0a207817",
-    "pais": "Mexico",
-    "cadena": "bresca",
-    "tienda": 60,
-    "hora": "2015-01-12",
-    "importe": 8167.09,
-    "ubicacion": {
-      "planta": 0,
-      "seccion": "Niño"
-    },
-    "productos": [
-      "perfumes",
-      "calzado",
-      "calzado",
-      "calzado",
-      "calzado"
-    ],
-    "lineas": [
-      {
-        "pvp": 102.6,
-        "unidades": 5,
-        "articulo": "traje",
-        "id": 0
-      },
-      {
-        "pvp": 224.05,
-        "unidades": 5,
-        "articulo": "chaqueta",
-        "id": 1
-      },
-      {
-        "pvp": 78.96,
-        "unidades": 5,
-        "articulo": "falda",
-        "id": 2
-      },
-      {
-        "pvp": 59.73,
-        "unidades": 2,
-        "articulo": "gorro",
-        "id": 3
-      },
-      {
-        "pvp": 122.09,
-        "unidades": 4,
-        "articulo": "falda",
-        "id": 4
-      }
-    ]
-  },
-  {
-    "_id": "552f8669f2daec2ac58639d8",
-    "pais": "Brasil",
-    "cadena": "duti",
-    "tienda": 5593,
-    "hora": "2015-03-21",
-    "importe": 3800.82,
-    "ubicacion": {
-      "planta": 1,
-      "seccion": "Señora"
-    },
-    "productos": [
-      "calzado",
-      "complementos",
-      "complementos",
-      "ropa",
-      "complementos"
-    ],
-    "lineas": [
-      {
-        "pvp": 241.39,
-        "unidades": 1,
-        "articulo": "zapato",
-        "id": 0
-      },
-      {
-        "pvp": 97.6,
-        "unidades": 5,
-        "articulo": "camiseta",
-        "id": 1
-      },
-      {
-        "pvp": 189.62,
-        "unidades": 5,
-        "articulo": "chaqueta",
-        "id": 2
-      },
-      {
-        "pvp": 176.79,
-        "unidades": 4,
-        "articulo": "traje",
-        "id": 3
-      },
-      {
-        "pvp": 159.41,
-        "unidades": 2,
-        "articulo": "pantalón",
-        "id": 4
-      }
-    ]
-  },
-  {
-    "_id": "552f866908b653791258d4eb",
-    "pais": "Portugal",
-    "cadena": "bresca",
-    "tienda": 3632,
-    "hora": "2015-02-04",
-    "importe": 8666.08,
-    "ubicacion": {
-      "planta": 2,
-      "seccion": "Caballero"
-    },
-    "productos": [
-      "calzado",
-      "perfumes",
-      "complementos",
-      "calzado",
-      "perfumes"
-    ],
-    "lineas": [
-      {
-        "pvp": 104.02,
-        "unidades": 5,
-        "articulo": "gorro",
-        "id": 0
-      },
-      {
-        "pvp": 33.49,
-        "unidades": 3,
-        "articulo": "camiseta",
-        "id": 1
-      },
-      {
-        "pvp": 225.92,
-        "unidades": 3,
-        "articulo": "gorro",
-        "id": 2
-      },
-      {
-        "pvp": 205.86,
-        "unidades": 2,
-        "articulo": "colonia",
-        "id": 3
-      },
-      {
-        "pvp": 193.47,
-        "unidades": 4,
-        "articulo": "gorro",
-        "id": 4
-      }
-    ]
-  },
-  {
-    "_id": "552f8669619a2d6d2685f591",
-    "pais": "Italia",
-    "cadena": "bresca",
-    "tienda": 3419,
-    "hora": "2015-02-22",
-    "importe": 4295.88,
-    "ubicacion": {
-      "planta": 2,
-      "seccion": "Niño"
-    },
-    "productos": [
-      "complementos",
-      "ropa",
-      "ropa",
-      "perfumes",
-      "perfumes"
-    ],
-    "lineas": [
-      {
-        "pvp": 193.3,
-        "unidades": 4,
-        "articulo": "gorro",
-        "id": 0
-      },
-      {
-        "pvp": 34.09,
-        "unidades": 5,
-        "articulo": "gorro",
-        "id": 1
-      },
-      {
-        "pvp": 217.7,
-        "unidades": 5,
-        "articulo": "pantalón",
-        "id": 2
-      },
-      {
-        "pvp": 155.96,
-        "unidades": 3,
-        "articulo": "falda",
-        "id": 3
-      },
-      {
-        "pvp": 148.05,
-        "unidades": 4,
-        "articulo": "pantalón",
-        "id": 4
-      }
-    ]
-  },
-  {
-    "_id": "552f86690f427d679b057da3",
-    "pais": "Italia",
-    "cadena": "bresca",
-    "tienda": 1026,
-    "hora": "2015-04-12",
-    "importe": 5775.08,
-    "ubicacion": {
-      "planta": 2,
-      "seccion": "Niño"
-    },
-    "productos": [
-      "complementos",
-      "ropa",
-      "ropa",
-      "ropa",
-      "complementos"
-    ],
-    "lineas": [
-      {
-        "pvp": 145.38,
-        "unidades": 2,
-        "articulo": "pantalón",
-        "id": 0
-      },
-      {
-        "pvp": 258.13,
-        "unidades": 3,
-        "articulo": "zapato",
-        "id": 1
-      },
-      {
-        "pvp": 107.37,
-        "unidades": 3,
-        "articulo": "gorro",
-        "id": 2
-      },
-      {
-        "pvp": 299.48,
-        "unidades": 1,
-        "articulo": "vestido",
-        "id": 3
-      },
-      {
-        "pvp": 130.8,
-        "unidades": 5,
-        "articulo": "chaqueta",
-        "id": 4
-      }
-    ]
-  },
-  {
-    "_id": "552f8669ec052fe48163a2a8",
-    "pais": "China",
-    "cadena": "puliber",
-    "tienda": 7816,
-    "hora": "2015-02-08",
-    "importe": 4383.06,
-    "ubicacion": {
-      "planta": 2,
-      "seccion": "Caballero"
-    },
-    "productos": [
-      "ropa",
-      "complementos",
-      "perfumes",
-      "complementos",
-      "complementos"
-    ],
-    "lineas": [
-      {
-        "pvp": 10.46,
-        "unidades": 2,
-        "articulo": "pantalón",
-        "id": 0
-      },
-      {
-        "pvp": 37.96,
-        "unidades": 5,
-        "articulo": "camiseta",
-        "id": 1
-      },
-      {
-        "pvp": 127.06,
-        "unidades": 5,
-        "articulo": "traje",
-        "id": 2
-      },
-      {
-        "pvp": 66.84,
-        "unidades": 3,
-        "articulo": "camiseta",
-        "id": 3
-      },
-      {
-        "pvp": 286.95,
-        "unidades": 1,
-        "articulo": "camiseta",
-        "id": 4
-      }
-    ]
-  },
-  {
-    "_id": "552f86693b337ea128da797d",
-    "pais": "China",
-    "cadena": "puliber",
-    "tienda": 6312,
-    "hora": "2015-03-12",
-    "importe": 338.99,
-    "ubicacion": {
-      "planta": 0,
-      "seccion": "Caballero"
-    },
-    "productos": [
-      "calzado",
-      "calzado",
-      "ropa",
-      "complementos",
-      "ropa"
-    ],
-    "lineas": [
-      {
-        "pvp": 209.3,
-        "unidades": 4,
-        "articulo": "gorro",
-        "id": 0
-      },
-      {
-        "pvp": 175.05,
-        "unidades": 1,
-        "articulo": "falda",
-        "id": 1
-      },
-      {
-        "pvp": 296.26,
-        "unidades": 2,
-        "articulo": "camisa",
-        "id": 2
-      },
-      {
-        "pvp": 272.81,
-        "unidades": 2,
-        "articulo": "gorro",
-        "id": 3
-      },
-      {
-        "pvp": 136.96,
-        "unidades": 2,
-        "articulo": "pantalón",
-        "id": 4
-      }
-    ]
-  },
-  {
-    "_id": "552f866938faaef36108ecc3",
-    "pais": "Rusia",
-    "cadena": "puliber",
-    "tienda": 8018,
-    "hora": "2015-03-14",
-    "importe": 1935.43,
-    "ubicacion": {
-      "planta": 1,
-      "seccion": "Caballero"
-    },
-    "productos": [
-      "ropa",
-      "perfumes",
-      "complementos",
-      "perfumes",
-      "calzado"
-    ],
-    "lineas": [
-      {
-        "pvp": 265.97,
-        "unidades": 2,
-        "articulo": "gorro",
-        "id": 0
-      },
-      {
-        "pvp": 278.34,
-        "unidades": 3,
-        "articulo": "chaqueta",
-        "id": 1
-      },
-      {
-        "pvp": 124.32,
-        "unidades": 5,
-        "articulo": "traje",
-        "id": 2
-      },
-      {
-        "pvp": 27.69,
-        "unidades": 2,
-        "articulo": "traje",
-        "id": 3
-      },
-      {
-        "pvp": 145.84,
-        "unidades": 4,
-        "articulo": "pantalón",
-        "id": 4
-      }
-    ]
-  },
-  {
-    "_id": "552f866950cdfdef22cd8d44",
-    "pais": "Brasil",
-    "cadena": "puliber",
-    "tienda": 5107,
-    "hora": "2015-01-17",
-    "importe": 9249.56,
-    "ubicacion": {
-      "planta": 1,
-      "seccion": "Caballero"
-    },
-    "productos": [
-      "perfumes",
-      "ropa",
-      "calzado",
-      "ropa",
-      "perfumes"
-    ],
-    "lineas": [
-      {
-        "pvp": 283.36,
-        "unidades": 5,
-        "articulo": "falda",
-        "id": 0
-      },
-      {
-        "pvp": 122.38,
-        "unidades": 1,
-        "articulo": "traje",
-        "id": 1
-      },
-      {
-        "pvp": 38.89,
-        "unidades": 5,
-        "articulo": "pantalón",
-        "id": 2
-      },
-      {
-        "pvp": 14.3,
-        "unidades": 2,
-        "articulo": "colonia",
-        "id": 3
-      },
-      {
-        "pvp": 237.41,
-        "unidades": 5,
-        "articulo": "colonia",
-        "id": 4
-      }
-    ]
-  },
-  {
-    "_id": "552f8669c924c1413bbcdb16",
-    "pais": "USA",
-    "cadena": "duti",
-    "tienda": 5491,
-    "hora": "2015-03-07",
-    "importe": 7025.98,
-    "ubicacion": {
-      "planta": 0,
-      "seccion": "Señora"
-    },
-    "productos": [
-      "calzado",
-      "calzado",
-      "calzado",
-      "ropa",
-      "calzado"
-    ],
-    "lineas": [
-      {
-        "pvp": 266.91,
-        "unidades": 2,
-        "articulo": "chaqueta",
-        "id": 0
-      },
-      {
-        "pvp": 70.71,
-        "unidades": 1,
-        "articulo": "vestido",
-        "id": 1
-      },
-      {
-        "pvp": 144.9,
-        "unidades": 5,
-        "articulo": "camisa",
-        "id": 2
-      },
-      {
-        "pvp": 21.16,
-        "unidades": 5,
-        "articulo": "colonia",
-        "id": 3
-      },
-      {
-        "pvp": 69.89,
-        "unidades": 3,
-        "articulo": "chaqueta",
-        "id": 4
-      }
-    ]
-  },
-  {
-    "_id": "552f8669b7606f37f2c1a371",
-    "pais": "Japon",
-    "cadena": "duti",
-    "tienda": 2893,
-    "hora": "2015-04-04",
-    "importe": 535.82,
-    "ubicacion": {
-      "planta": 2,
-      "seccion": "Señora"
-    },
-    "productos": [
-      "perfumes",
-      "ropa",
-      "ropa",
-      "perfumes",
-      "complementos"
-    ],
-    "lineas": [
-      {
-        "pvp": 95.93,
-        "unidades": 2,
-        "articulo": "vestido",
-        "id": 0
-      },
-      {
-        "pvp": 112.15,
-        "unidades": 2,
-        "articulo": "pantalón",
-        "id": 1
-      },
-      {
-        "pvp": 287.46,
-        "unidades": 2,
-        "articulo": "chaqueta",
-        "id": 2
-      },
-      {
-        "pvp": 12.21,
-        "unidades": 4,
-        "articulo": "camisa",
-        "id": 3
-      },
-      {
-        "pvp": 132.53,
-        "unidades": 2,
-        "articulo": "gorro",
-        "id": 4
-      }
-    ]
-  },
-  {
-    "_id": "552f8669ccf4b9bc70cf2c73",
-    "pais": "Brasil",
-    "cadena": "zarra",
-    "tienda": 5535,
-    "hora": "2015-03-15",
-    "importe": 8576.13,
-    "ubicacion": {
-      "planta": 0,
-      "seccion": "Señora"
-    },
-    "productos": [
-      "complementos",
-      "complementos",
-      "calzado",
-      "complementos",
-      "perfumes"
-    ],
-    "lineas": [
-      {
-        "pvp": 154.15,
-        "unidades": 3,
-        "articulo": "gorro",
-        "id": 0
-      },
-      {
-        "pvp": 197.67,
-        "unidades": 2,
-        "articulo": "zapato",
-        "id": 1
-      },
-      {
-        "pvp": 250.05,
-        "unidades": 1,
-        "articulo": "traje",
-        "id": 2
-      },
-      {
-        "pvp": 174.59,
-        "unidades": 1,
-        "articulo": "colonia",
-        "id": 3
-      },
-      {
-        "pvp": 282.95,
-        "unidades": 3,
-        "articulo": "chaqueta",
-        "id": 4
-      }
-    ]
-  },
-  {
-    "_id": "552f866983e81384ac20d507",
-    "pais": "Rusia",
-    "cadena": "bresca",
-    "tienda": 6268,
-    "hora": "2015-01-13",
-    "importe": 5948.65,
-    "ubicacion": {
-      "planta": 1,
-      "seccion": "Niño"
-    },
-    "productos": [
-      "perfumes",
-      "perfumes",
-      "complementos",
-      "ropa",
-      "complementos"
-    ],
-    "lineas": [
-      {
-        "pvp": 88.19,
-        "unidades": 4,
-        "articulo": "chaqueta",
-        "id": 0
-      },
-      {
-        "pvp": 133.43,
-        "unidades": 4,
-        "articulo": "colonia",
-        "id": 1
-      },
-      {
-        "pvp": 150.1,
-        "unidades": 5,
-        "articulo": "traje",
-        "id": 2
-      },
-      {
-        "pvp": 129.28,
-        "unidades": 5,
-        "articulo": "camisa",
-        "id": 3
-      },
-      {
-        "pvp": 16.43,
-        "unidades": 1,
-        "articulo": "traje",
-        "id": 4
-      }
-    ]
-  },
-  {
-    "_id": "552f866943050d736a3ba652",
-    "pais": "España",
-    "cadena": "bresca",
-    "tienda": 5963,
-    "hora": "2015-03-09",
-    "importe": 9819.8,
-    "ubicacion": {
-      "planta": 1,
-      "seccion": "Señora"
-    },
-    "productos": [
-      "ropa",
-      "complementos",
-      "complementos",
-      "complementos",
-      "complementos"
-    ],
-    "lineas": [
-      {
-        "pvp": 211.98,
-        "unidades": 4,
-        "articulo": "zapato",
-        "id": 0
-      },
-      {
-        "pvp": 280.05,
-        "unidades": 3,
-        "articulo": "camiseta",
-        "id": 1
-      },
-      {
-        "pvp": 247.53,
-        "unidades": 3,
-        "articulo": "zapato",
-        "id": 2
-      },
-      {
-        "pvp": 178.22,
-        "unidades": 3,
-        "articulo": "gorro",
-        "id": 3
-      },
-      {
-        "pvp": 231.78,
-        "unidades": 5,
-        "articulo": "colonia",
-        "id": 4
-      }
-    ]
-  },
-  {
-    "_id": "552f8669188e6cdadff86f0a",
-    "pais": "Alemania",
-    "cadena": "bresca",
-    "tienda": 1528,
-    "hora": "2015-01-06",
-    "importe": 1642.93,
-    "ubicacion": {
-      "planta": 2,
-      "seccion": "Caballero"
-    },
-    "productos": [
-      "calzado",
-      "calzado",
-      "complementos",
-      "calzado",
-      "calzado"
-    ],
-    "lineas": [
-      {
-        "pvp": 253.16,
-        "unidades": 3,
-        "articulo": "colonia",
-        "id": 0
-      },
-      {
-        "pvp": 247.68,
-        "unidades": 2,
-        "articulo": "gorro",
-        "id": 1
-      },
-      {
-        "pvp": 212.36,
-        "unidades": 5,
-        "articulo": "colonia",
-        "id": 2
-      },
-      {
-        "pvp": 236.71,
-        "unidades": 4,
-        "articulo": "vestido",
-        "id": 3
-      },
-      {
-        "pvp": 69.34,
-        "unidades": 4,
-        "articulo": "vestido",
-        "id": 4
-      }
-    ]
-  },
-  {
-    "_id": "552f8669a71b56675e8e760d",
-    "pais": "UK",
-    "cadena": "bresca",
-    "tienda": 4577,
-    "hora": "2015-02-28",
-    "importe": 7312.51,
-    "ubicacion": {
-      "planta": 1,
-      "seccion": "Señora"
-    },
-    "productos": [
-      "calzado",
-      "perfumes",
-      "perfumes",
-      "ropa",
-      "calzado"
-    ],
-    "lineas": [
-      {
-        "pvp": 172.45,
-        "unidades": 2,
-        "articulo": "colonia",
-        "id": 0
-      },
-      {
-        "pvp": 283.96,
-        "unidades": 4,
-        "articulo": "pantalón",
-        "id": 1
-      },
-      {
-        "pvp": 36.86,
-        "unidades": 4,
-        "articulo": "gorro",
-        "id": 2
-      },
-      {
-        "pvp": 217.39,
-        "unidades": 5,
-        "articulo": "zapato",
-        "id": 3
-      },
-      {
-        "pvp": 272.04,
-        "unidades": 2,
-        "articulo": "vestido",
-        "id": 4
-      }
-    ]
-  },
-  {
-    "_id": "552f866900817492480b628c",
-    "pais": "Rusia",
-    "cadena": "zarra",
-    "tienda": 6674,
-    "hora": "2015-03-02",
-    "importe": 5942.52,
-    "ubicacion": {
-      "planta": 2,
-      "seccion": "Señora"
-    },
-    "productos": [
-      "ropa",
-      "complementos",
-      "calzado",
-      "calzado",
-      "perfumes"
-    ],
-    "lineas": [
-      {
-        "pvp": 225.03,
-        "unidades": 4,
-        "articulo": "camiseta",
-        "id": 0
-      },
-      {
-        "pvp": 12.73,
-        "unidades": 3,
-        "articulo": "camisa",
-        "id": 1
-      },
-      {
-        "pvp": 242.08,
-        "unidades": 2,
-        "articulo": "gorro",
-        "id": 2
-      },
-      {
-        "pvp": 148.09,
-        "unidades": 3,
-        "articulo": "traje",
-        "id": 3
-      },
-      {
-        "pvp": 223.82,
-        "unidades": 4,
-        "articulo": "camisa",
-        "id": 4
-      }
-    ]
-  },
-  {
-    "_id": "552f866947890b94eec2b0d3",
-    "pais": "China",
-    "cadena": "duti",
-    "tienda": 1230,
-    "hora": "2015-03-18",
-    "importe": 3585.22,
-    "ubicacion": {
-      "planta": 1,
-      "seccion": "Caballero"
-    },
-    "productos": [
-      "ropa",
-      "complementos",
-      "perfumes",
-      "perfumes",
-      "complementos"
-    ],
-    "lineas": [
-      {
-        "pvp": 15.89,
-        "unidades": 1,
-        "articulo": "camiseta",
-        "id": 0
-      },
-      {
-        "pvp": 18.67,
-        "unidades": 5,
-        "articulo": "colonia",
-        "id": 1
-      },
-      {
-        "pvp": 20.04,
-        "unidades": 1,
-        "articulo": "colonia",
-        "id": 2
-      },
-      {
-        "pvp": 55.07,
-        "unidades": 5,
-        "articulo": "zapato",
-        "id": 3
-      },
-      {
-        "pvp": 201.35,
-        "unidades": 5,
-        "articulo": "pantalón",
-        "id": 4
-      }
-    ]
-  },
-  {
-    "_id": "552f86695cdb1d7438b129bd",
-    "pais": "Japon",
-    "cadena": "zarra",
-    "tienda": 8210,
-    "hora": "2015-02-21",
-    "importe": 343.21,
-    "ubicacion": {
-      "planta": 1,
-      "seccion": "Caballero"
-    },
-    "productos": [
-      "calzado",
-      "calzado",
-      "ropa",
-      "calzado",
-      "perfumes"
-    ],
-    "lineas": [
-      {
-        "pvp": 102.64,
-        "unidades": 4,
-        "articulo": "vestido",
-        "id": 0
-      },
-      {
-        "pvp": 87.05,
-        "unidades": 5,
-        "articulo": "camiseta",
-        "id": 1
-      },
-      {
-        "pvp": 162.36,
-        "unidades": 4,
-        "articulo": "gorro",
-        "id": 2
-      },
-      {
-        "pvp": 20.41,
-        "unidades": 3,
-        "articulo": "gorro",
-        "id": 3
-      },
-      {
-        "pvp": 69.55,
-        "unidades": 4,
-        "articulo": "vestido",
-        "id": 4
-      }
-    ]
-  },
-  {
-    "_id": "552f8669aacf37e6735265b1",
-    "pais": "Francia",
-    "cadena": "bresca",
-    "tienda": 2415,
-    "hora": "2015-03-12",
-    "importe": 1893.2,
-    "ubicacion": {
-      "planta": 2,
-      "seccion": "Niño"
-    },
-    "productos": [
-      "calzado",
-      "perfumes",
-      "calzado",
-      "calzado",
-      "perfumes"
-    ],
-    "lineas": [
-      {
-        "pvp": 160.64,
-        "unidades": 5,
-        "articulo": "vestido",
-        "id": 0
-      },
-      {
-        "pvp": 206.03,
-        "unidades": 3,
-        "articulo": "colonia",
-        "id": 1
-      },
-      {
-        "pvp": 166.55,
-        "unidades": 2,
-        "articulo": "gorro",
-        "id": 2
-      },
-      {
-        "pvp": 25,
-        "unidades": 4,
-        "articulo": "zapato",
-        "id": 3
-      },
-      {
-        "pvp": 194.04,
-        "unidades": 3,
-        "articulo": "chaqueta",
-        "id": 4
-      }
-    ]
-  },
-  {
-    "_id": "552f8669678fd9a64d730b79",
-    "pais": "Japon",
-    "cadena": "bresca",
-    "tienda": 7971,
-    "hora": "2015-02-26",
-    "importe": 12.9,
-    "ubicacion": {
-      "planta": 2,
-      "seccion": "Caballero"
-    },
-    "productos": [
-      "calzado",
-      "ropa",
-      "calzado",
-      "ropa",
-      "calzado"
-    ],
-    "lineas": [
-      {
-        "pvp": 37.08,
-        "unidades": 2,
-        "articulo": "colonia",
-        "id": 0
-      },
-      {
-        "pvp": 141.68,
-        "unidades": 5,
-        "articulo": "falda",
-        "id": 1
-      },
-      {
-        "pvp": 261.8,
-        "unidades": 1,
-        "articulo": "falda",
-        "id": 2
-      },
-      {
-        "pvp": 50.02,
-        "unidades": 4,
-        "articulo": "camiseta",
-        "id": 3
-      },
-      {
-        "pvp": 259.75,
-        "unidades": 2,
-        "articulo": "zapato",
-        "id": 4
-      }
-    ]
-  },
-  {
-    "_id": "552f8669334a6527261dbab0",
-    "pais": "Japon",
-    "cadena": "bresca",
-    "tienda": 1131,
-    "hora": "2015-04-01",
-    "importe": 6574.25,
-    "ubicacion": {
-      "planta": 2,
-      "seccion": "Niño"
-    },
-    "productos": [
-      "calzado",
-      "complementos",
-      "calzado",
-      "complementos",
-      "complementos"
-    ],
-    "lineas": [
-      {
-        "pvp": 149.48,
-        "unidades": 5,
-        "articulo": "gorro",
-        "id": 0
-      },
-      {
-        "pvp": 18.83,
-        "unidades": 5,
-        "articulo": "vestido",
-        "id": 1
-      },
-      {
-        "pvp": 105.43,
-        "unidades": 3,
-        "articulo": "colonia",
-        "id": 2
-      },
-      {
-        "pvp": 220.06,
-        "unidades": 3,
-        "articulo": "vestido",
-        "id": 3
-      },
-      {
-        "pvp": 42.7,
-        "unidades": 4,
-        "articulo": "camisa",
-        "id": 4
-      }
-    ]
-  },
-  {
-    "_id": "552f8669c937a0bdcefa982b",
-    "pais": "España",
-    "cadena": "zarra",
-    "tienda": 8780,
-    "hora": "2015-01-18",
-    "importe": 8598.76,
-    "ubicacion": {
-      "planta": 0,
-      "seccion": "Niño"
-    },
-    "productos": [
-      "perfumes",
-      "complementos",
-      "calzado",
-      "calzado",
-      "calzado"
-    ],
-    "lineas": [
-      {
-        "pvp": 220.53,
-        "unidades": 1,
-        "articulo": "traje",
-        "id": 0
-      },
-      {
-        "pvp": 222.77,
-        "unidades": 3,
-        "articulo": "falda",
-        "id": 1
-      },
-      {
-        "pvp": 243.21,
-        "unidades": 1,
-        "articulo": "vestido",
-        "id": 2
-      },
-      {
-        "pvp": 39.61,
-        "unidades": 4,
-        "articulo": "camisa",
-        "id": 3
-      },
-      {
-        "pvp": 297.12,
-        "unidades": 3,
-        "articulo": "traje",
-        "id": 4
-      }
-    ]
-  },
-  {
-    "_id": "552f8669add45474632b34c6",
-    "pais": "Francia",
-    "cadena": "zarra",
-    "tienda": 7914,
-    "hora": "2015-01-05",
-    "importe": 887.79,
-    "ubicacion": {
-      "planta": 0,
-      "seccion": "Señora"
-    },
-    "productos": [
-      "calzado",
-      "perfumes",
-      "perfumes",
-      "complementos",
-      "complementos"
-    ],
-    "lineas": [
-      {
-        "pvp": 96.21,
-        "unidades": 1,
-        "articulo": "vestido",
-        "id": 0
-      },
-      {
-        "pvp": 184.03,
-        "unidades": 4,
-        "articulo": "gorro",
-        "id": 1
-      },
-      {
-        "pvp": 260.6,
-        "unidades": 2,
-        "articulo": "gorro",
-        "id": 2
-      },
-      {
-        "pvp": 191.23,
-        "unidades": 2,
-        "articulo": "chaqueta",
-        "id": 3
-      },
-      {
-        "pvp": 216.64,
-        "unidades": 4,
-        "articulo": "camisa",
-        "id": 4
-      }
-    ]
-  },
-  {
-    "_id": "552f866934b18b8c3f13f6b3",
-    "pais": "Rusia",
-    "cadena": "zarra",
-    "tienda": 9020,
-    "hora": "2015-03-23",
-    "importe": 8136.57,
-    "ubicacion": {
-      "planta": 0,
-      "seccion": "Caballero"
-    },
-    "productos": [
-      "ropa",
-      "ropa",
-      "complementos",
-      "complementos",
-      "calzado"
-    ],
-    "lineas": [
-      {
-        "pvp": 47.97,
-        "unidades": 4,
-        "articulo": "falda",
-        "id": 0
-      },
-      {
-        "pvp": 53.88,
-        "unidades": 3,
-        "articulo": "gorro",
-        "id": 1
-      },
-      {
-        "pvp": 189.95,
-        "unidades": 5,
-        "articulo": "falda",
-        "id": 2
-      },
-      {
-        "pvp": 16.62,
-        "unidades": 5,
-        "articulo": "traje",
-        "id": 3
-      },
-      {
-        "pvp": 106.72,
-        "unidades": 2,
-        "articulo": "camisa",
-        "id": 4
-      }
-    ]
-  },
-  {
-    "_id": "552f8669ef0a1999dc146a34",
-    "pais": "Portugal",
-    "cadena": "zarra",
-    "tienda": 4175,
-    "hora": "2015-02-05",
-    "importe": 6161.91,
-    "ubicacion": {
-      "planta": 0,
-      "seccion": "Caballero"
-    },
-    "productos": [
-      "perfumes",
-      "perfumes",
-      "ropa",
-      "ropa",
-      "ropa"
-    ],
-    "lineas": [
-      {
-        "pvp": 214.77,
-        "unidades": 1,
-        "articulo": "traje",
-        "id": 0
-      },
-      {
-        "pvp": 202.92,
-        "unidades": 4,
-        "articulo": "pantalón",
-        "id": 1
-      },
-      {
-        "pvp": 111.27,
-        "unidades": 3,
-        "articulo": "falda",
-        "id": 2
-      },
-      {
-        "pvp": 14.04,
-        "unidades": 1,
-        "articulo": "zapato",
-        "id": 3
-      },
-      {
-        "pvp": 240.75,
-        "unidades": 5,
-        "articulo": "traje",
-        "id": 4
-      }
-    ]
-  },
-  {
-    "_id": "552f86694340e87c241504a1",
-    "pais": "Alemania",
-    "cadena": "duti",
-    "tienda": 6692,
-    "hora": "2015-03-24",
-    "importe": 3016.34,
-    "ubicacion": {
-      "planta": 2,
-      "seccion": "Caballero"
-    },
-    "productos": [
-      "calzado",
-      "ropa",
-      "calzado",
-      "calzado",
-      "perfumes"
-    ],
-    "lineas": [
-      {
-        "pvp": 147.13,
-        "unidades": 4,
-        "articulo": "colonia",
-        "id": 0
-      },
-      {
-        "pvp": 38.5,
-        "unidades": 1,
-        "articulo": "camiseta",
-        "id": 1
-      },
-      {
-        "pvp": 242.64,
-        "unidades": 4,
-        "articulo": "vestido",
-        "id": 2
-      },
-      {
-        "pvp": 283.06,
-        "unidades": 2,
-        "articulo": "pantalón",
-        "id": 3
-      },
-      {
-        "pvp": 138.12,
-        "unidades": 3,
-        "articulo": "pantalón",
-        "id": 4
-      }
-    ]
-  },
-  {
-    "_id": "552f8669cedf229522c42700",
-    "pais": "Italia",
-    "cadena": "puliber",
-    "tienda": 1188,
-    "hora": "2015-01-29",
-    "importe": 5471.53,
-    "ubicacion": {
-      "planta": 1,
-      "seccion": "Señora"
-    },
-    "productos": [
-      "calzado",
-      "perfumes",
-      "ropa",
-      "calzado",
-      "ropa"
-    ],
-    "lineas": [
-      {
-        "pvp": 210.06,
-        "unidades": 1,
-        "articulo": "pantalón",
-        "id": 0
-      },
-      {
-        "pvp": 62.29,
-        "unidades": 2,
-        "articulo": "colonia",
-        "id": 1
-      },
-      {
-        "pvp": 288.27,
-        "unidades": 1,
-        "articulo": "traje",
-        "id": 2
-      },
-      {
-        "pvp": 73.03,
-        "unidades": 2,
-        "articulo": "pantalón",
-        "id": 3
-      },
-      {
-        "pvp": 196.82,
-        "unidades": 2,
-        "articulo": "chaqueta",
-        "id": 4
-      }
-    ]
-  },
-  {
-    "_id": "552f8669b779a8851c5590ef",
-    "pais": "Italia",
-    "cadena": "puliber",
-    "tienda": 136,
-    "hora": "2015-02-19",
-    "importe": 2266.97,
-    "ubicacion": {
-      "planta": 0,
-      "seccion": "Señora"
-    },
-    "productos": [
-      "calzado",
-      "ropa",
-      "ropa",
-      "perfumes",
-      "complementos"
-    ],
-    "lineas": [
-      {
-        "pvp": 154.95,
-        "unidades": 2,
-        "articulo": "gorro",
-        "id": 0
-      },
-      {
-        "pvp": 86.38,
-        "unidades": 3,
-        "articulo": "camiseta",
-        "id": 1
-      },
-      {
-        "pvp": 246.52,
-        "unidades": 1,
-        "articulo": "traje",
-        "id": 2
-      },
-      {
-        "pvp": 163.41,
-        "unidades": 3,
-        "articulo": "chaqueta",
-        "id": 3
-      },
-      {
-        "pvp": 142.6,
-        "unidades": 3,
-        "articulo": "vestido",
-        "id": 4
-      }
-    ]
-  },
-  {
-    "_id": "552f866990082bd010fa029f",
-    "pais": "China",
-    "cadena": "duti",
-    "tienda": 1456,
-    "hora": "2015-04-08",
-    "importe": 9334.22,
-    "ubicacion": {
-      "planta": 2,
-      "seccion": "Caballero"
-    },
-    "productos": [
-      "complementos",
-      "perfumes",
-      "calzado",
-      "calzado",
-      "perfumes"
-    ],
-    "lineas": [
-      {
-        "pvp": 132.71,
-        "unidades": 2,
-        "articulo": "pantalón",
-        "id": 0
-      },
-      {
-        "pvp": 231.66,
-        "unidades": 4,
-        "articulo": "camiseta",
-        "id": 1
-      },
-      {
-        "pvp": 124.29,
-        "unidades": 1,
-        "articulo": "pantalón",
-        "id": 2
-      },
-      {
-        "pvp": 163.05,
-        "unidades": 1,
-        "articulo": "vestido",
-        "id": 3
-      },
-      {
-        "pvp": 198.82,
-        "unidades": 5,
-        "articulo": "camiseta",
-        "id": 4
-      }
-    ]
-  },
-  {
-    "_id": "552f8669a8b1b06d9a3aba22",
-    "pais": "Italia",
-    "cadena": "bresca",
-    "tienda": 1706,
-    "hora": "2015-03-21",
-    "importe": 1196.74,
-    "ubicacion": {
-      "planta": 1,
-      "seccion": "Caballero"
-    },
-    "productos": [
-      "complementos",
-      "complementos",
-      "calzado",
-      "complementos",
-      "complementos"
-    ],
-    "lineas": [
-      {
-        "pvp": 74.11,
-        "unidades": 1,
-        "articulo": "traje",
-        "id": 0
-      },
-      {
-        "pvp": 134.5,
-        "unidades": 1,
-        "articulo": "pantalón",
-        "id": 1
-      },
-      {
-        "pvp": 126.22,
-        "unidades": 5,
-        "articulo": "camiseta",
-        "id": 2
-      },
-      {
-        "pvp": 60.8,
-        "unidades": 5,
-        "articulo": "camiseta",
-        "id": 3
-      },
-      {
-        "pvp": 84.56,
-        "unidades": 2,
-        "articulo": "traje",
-        "id": 4
-      }
-    ]
-  },
-  {
-    "_id": "552f86690d01a4bc35ca251c",
-    "pais": "Rusia",
-    "cadena": "puliber",
-    "tienda": 2325,
-    "hora": "2015-01-07",
-    "importe": 1684.28,
-    "ubicacion": {
-      "planta": 1,
-      "seccion": "Caballero"
-    },
-    "productos": [
-      "perfumes",
-      "ropa",
-      "ropa",
-      "perfumes",
-      "perfumes"
-    ],
-    "lineas": [
-      {
-        "pvp": 90.29,
-        "unidades": 1,
-        "articulo": "colonia",
-        "id": 0
-      },
-      {
-        "pvp": 78.55,
-        "unidades": 4,
-        "articulo": "vestido",
-        "id": 1
-      },
-      {
-        "pvp": 206.47,
-        "unidades": 3,
-        "articulo": "falda",
-        "id": 2
-      },
-      {
-        "pvp": 169.51,
-        "unidades": 3,
-        "articulo": "zapato",
-        "id": 3
-      },
-      {
-        "pvp": 121,
-        "unidades": 4,
-        "articulo": "camisa",
-        "id": 4
-      }
-    ]
-  },
-  {
-    "_id": "552f8669006bc6aada8c73a2",
-    "pais": "Italia",
-    "cadena": "zarra",
-    "tienda": 8297,
-    "hora": "2015-03-19",
-    "importe": 571.93,
-    "ubicacion": {
-      "planta": 2,
-      "seccion": "Señora"
-    },
-    "productos": [
-      "ropa",
-      "complementos",
-      "perfumes",
-      "ropa",
-      "complementos"
-    ],
-    "lineas": [
-      {
-        "pvp": 107.8,
-        "unidades": 3,
-        "articulo": "gorro",
-        "id": 0
-      },
-      {
-        "pvp": 195.2,
-        "unidades": 5,
-        "articulo": "gorro",
-        "id": 1
-      },
-      {
-        "pvp": 98.28,
-        "unidades": 3,
-        "articulo": "vestido",
-        "id": 2
-      },
-      {
-        "pvp": 55.57,
-        "unidades": 5,
-        "articulo": "colonia",
-        "id": 3
-      },
-      {
-        "pvp": 222.36,
-        "unidades": 2,
-        "articulo": "pantalón",
-        "id": 4
-      }
-    ]
-  },
-  {
-    "_id": "552f866911dbcceb193a78ae",
-    "pais": "China",
-    "cadena": "duti",
-    "tienda": 1661,
-    "hora": "2015-01-07",
-    "importe": 2249.93,
-    "ubicacion": {
-      "planta": 0,
-      "seccion": "Niño"
-    },
-    "productos": [
-      "perfumes",
-      "calzado",
-      "perfumes",
-      "calzado",
-      "calzado"
-    ],
-    "lineas": [
-      {
-        "pvp": 131.15,
-        "unidades": 3,
-        "articulo": "gorro",
-        "id": 0
-      },
-      {
-        "pvp": 288.4,
-        "unidades": 5,
-        "articulo": "camiseta",
-        "id": 1
-      },
-      {
-        "pvp": 144.29,
-        "unidades": 5,
-        "articulo": "camiseta",
-        "id": 2
-      },
-      {
-        "pvp": 207.06,
-        "unidades": 5,
-        "articulo": "pantalón",
-        "id": 3
-      },
-      {
-        "pvp": 229.08,
-        "unidades": 5,
-        "articulo": "colonia",
-        "id": 4
-      }
-    ]
-  },
-  {
-    "_id": "552f8669562820a6c9d4a0b0",
-    "pais": "Japon",
-    "cadena": "bresca",
-    "tienda": 8299,
-    "hora": "2015-01-02",
-    "importe": 97.17,
-    "ubicacion": {
-      "planta": 0,
-      "seccion": "Señora"
-    },
-    "productos": [
-      "perfumes",
-      "calzado",
-      "ropa",
-      "complementos",
-      "calzado"
-    ],
-    "lineas": [
-      {
-        "pvp": 109.69,
-        "unidades": 5,
-        "articulo": "colonia",
-        "id": 0
-      },
-      {
-        "pvp": 241.65,
-        "unidades": 1,
-        "articulo": "colonia",
-        "id": 1
-      },
-      {
-        "pvp": 45.44,
-        "unidades": 2,
-        "articulo": "zapato",
-        "id": 2
-      },
-      {
-        "pvp": 49.32,
-        "unidades": 2,
-        "articulo": "vestido",
-        "id": 3
-      },
-      {
-        "pvp": 260.68,
-        "unidades": 3,
-        "articulo": "colonia",
-        "id": 4
-      }
-    ]
-  },
-  {
-    "_id": "552f8669dbd0354e2ddf8a4f",
-    "pais": "Japon",
-    "cadena": "bresca",
-    "tienda": 3784,
-    "hora": "2015-03-03",
-    "importe": 2027.88,
-    "ubicacion": {
-      "planta": 1,
-      "seccion": "Niño"
-    },
-    "productos": [
-      "calzado",
-      "perfumes",
-      "perfumes",
-      "ropa",
-      "ropa"
-    ],
-    "lineas": [
-      {
-        "pvp": 181.4,
-        "unidades": 5,
-        "articulo": "vestido",
-        "id": 0
-      },
-      {
-        "pvp": 103.67,
-        "unidades": 1,
-        "articulo": "zapato",
-        "id": 1
-      },
-      {
-        "pvp": 194.94,
-        "unidades": 2,
-        "articulo": "chaqueta",
-        "id": 2
-      },
-      {
-        "pvp": 267.19,
-        "unidades": 1,
-        "articulo": "falda",
-        "id": 3
-      },
-      {
-        "pvp": 31.85,
-        "unidades": 4,
-        "articulo": "zapato",
-        "id": 4
-      }
-    ]
-  },
-  {
-    "_id": "552f8669bd5af700129d04d8",
-    "pais": "USA",
-    "cadena": "duti",
-    "tienda": 690,
-    "hora": "2015-01-24",
-    "importe": 9070.74,
-    "ubicacion": {
-      "planta": 1,
-      "seccion": "Señora"
-    },
-    "productos": [
-      "complementos",
-      "complementos",
-      "complementos",
-      "calzado",
-      "calzado"
-    ],
-    "lineas": [
-      {
-        "pvp": 33.03,
-        "unidades": 5,
-        "articulo": "chaqueta",
-        "id": 0
-      },
-      {
-        "pvp": 204.61,
-        "unidades": 2,
-        "articulo": "colonia",
-        "id": 1
-      },
-      {
-        "pvp": 228.16,
-        "unidades": 1,
-        "articulo": "zapato",
-        "id": 2
-      },
-      {
-        "pvp": 20.16,
-        "unidades": 4,
-        "articulo": "gorro",
-        "id": 3
-      },
-      {
-        "pvp": 197.91,
-        "unidades": 5,
-        "articulo": "pantalón",
-        "id": 4
-      }
-    ]
-  },
-  {
-    "_id": "552f86698f511a0dfc624224",
-    "pais": "China",
-    "cadena": "zarra",
-    "tienda": 5638,
-    "hora": "2015-02-11",
-    "importe": 1304.2,
-    "ubicacion": {
-      "planta": 0,
-      "seccion": "Señora"
-    },
-    "productos": [
-      "perfumes",
-      "complementos",
-      "perfumes",
-      "perfumes",
-      "calzado"
-    ],
-    "lineas": [
-      {
-        "pvp": 81.56,
-        "unidades": 5,
-        "articulo": "colonia",
-        "id": 0
-      },
-      {
-        "pvp": 96.28,
-        "unidades": 4,
-        "articulo": "traje",
-        "id": 1
-      },
-      {
-        "pvp": 289.38,
-        "unidades": 4,
-        "articulo": "camisa",
-        "id": 2
-      },
-      {
-        "pvp": 43.05,
-        "unidades": 4,
-        "articulo": "traje",
-        "id": 3
-      },
-      {
-        "pvp": 293.64,
-        "unidades": 2,
-        "articulo": "camisa",
-        "id": 4
-      }
-    ]
-  },
-  {
-    "_id": "552f866970d27543152105c5",
-    "pais": "Alemania",
-    "cadena": "puliber",
-    "tienda": 4680,
-    "hora": "2015-04-06",
-    "importe": 9072.69,
-    "ubicacion": {
-      "planta": 1,
-      "seccion": "Niño"
-    },
-    "productos": [
-      "complementos",
-      "perfumes",
-      "complementos",
-      "perfumes",
-      "complementos"
-    ],
-    "lineas": [
-      {
-        "pvp": 52.3,
-        "unidades": 1,
-        "articulo": "pantalón",
-        "id": 0
-      },
-      {
-        "pvp": 123.3,
-        "unidades": 3,
-        "articulo": "falda",
-        "id": 1
-      },
-      {
-        "pvp": 123.87,
-        "unidades": 2,
-        "articulo": "camiseta",
-        "id": 2
-      },
-      {
-        "pvp": 77.13,
-        "unidades": 4,
-        "articulo": "traje",
-        "id": 3
-      },
-      {
-        "pvp": 63.25,
-        "unidades": 1,
-        "articulo": "colonia",
-        "id": 4
-      }
-    ]
-  },
-  {
-    "_id": "552f8669ec8f8ae8f05143f2",
-    "pais": "Japon",
-    "cadena": "bresca",
-    "tienda": 3165,
-    "hora": "2015-02-26",
-    "importe": 8819.03,
-    "ubicacion": {
-      "planta": 2,
-      "seccion": "Señora"
-    },
-    "productos": [
-      "ropa",
-      "ropa",
-      "perfumes",
-      "perfumes",
-      "complementos"
-    ],
-    "lineas": [
-      {
-        "pvp": 264.69,
-        "unidades": 2,
-        "articulo": "gorro",
-        "id": 0
-      },
-      {
-        "pvp": 110.56,
-        "unidades": 2,
-        "articulo": "falda",
-        "id": 1
-      },
-      {
-        "pvp": 210.96,
-        "unidades": 3,
-        "articulo": "colonia",
-        "id": 2
-      },
-      {
-        "pvp": 127.84,
-        "unidades": 2,
-        "articulo": "traje",
-        "id": 3
-      },
-      {
-        "pvp": 166.7,
-        "unidades": 4,
-        "articulo": "gorro",
-        "id": 4
-      }
-    ]
-  },
-  {
-    "_id": "552f8669a0e9964183d93a9a",
-    "pais": "China",
-    "cadena": "zarra",
-    "tienda": 7010,
-    "hora": "2015-02-13",
-    "importe": 778.17,
-    "ubicacion": {
-      "planta": 0,
-      "seccion": "Señora"
-    },
-    "productos": [
-      "calzado",
-      "complementos",
-      "perfumes",
-      "calzado",
-      "complementos"
-    ],
-    "lineas": [
-      {
-        "pvp": 95.81,
-        "unidades": 2,
-        "articulo": "falda",
-        "id": 0
-      },
-      {
-        "pvp": 111.03,
-        "unidades": 4,
-        "articulo": "traje",
-        "id": 1
-      },
-      {
-        "pvp": 23.63,
-        "unidades": 5,
-        "articulo": "camiseta",
-        "id": 2
-      },
-      {
-        "pvp": 64.38,
-        "unidades": 2,
-        "articulo": "falda",
-        "id": 3
-      },
-      {
-        "pvp": 91.82,
-        "unidades": 4,
-        "articulo": "camiseta",
-        "id": 4
-      }
-    ]
-  },
-  {
-    "_id": "552f8669fef17615aa5c859c",
-    "pais": "Mexico",
-    "cadena": "puliber",
-    "tienda": 4635,
-    "hora": "2015-04-14",
-    "importe": 6339.73,
-    "ubicacion": {
-      "planta": 0,
-      "seccion": "Niño"
-    },
-    "productos": [
-      "complementos",
-      "perfumes",
-      "calzado",
-      "complementos",
-      "ropa"
-    ],
-    "lineas": [
-      {
-        "pvp": 194.26,
-        "unidades": 3,
-        "articulo": "traje",
-        "id": 0
-      },
-      {
-        "pvp": 156.19,
-        "unidades": 2,
-        "articulo": "chaqueta",
-        "id": 1
-      },
-      {
-        "pvp": 195.82,
-        "unidades": 3,
-        "articulo": "gorro",
-        "id": 2
-      },
-      {
-        "pvp": 209.76,
-        "unidades": 1,
-        "articulo": "traje",
-        "id": 3
-      },
-      {
-        "pvp": 255.33,
-        "unidades": 2,
-        "articulo": "pantalón",
-        "id": 4
-      }
-    ]
-  },
-  {
-    "_id": "552f86691963c187e539efa9",
-    "pais": "Japon",
-    "cadena": "zarra",
-    "tienda": 2533,
-    "hora": "2015-02-23",
-    "importe": 1343.57,
-    "ubicacion": {
-      "planta": 0,
-      "seccion": "Niño"
-    },
-    "productos": [
-      "calzado",
-      "perfumes",
-      "complementos",
-      "complementos",
-      "ropa"
-    ],
-    "lineas": [
-      {
-        "pvp": 63.34,
-        "unidades": 4,
-        "articulo": "pantalón",
-        "id": 0
-      },
-      {
-        "pvp": 192.43,
-        "unidades": 5,
-        "articulo": "chaqueta",
-        "id": 1
-      },
-      {
-        "pvp": 59.38,
-        "unidades": 3,
-        "articulo": "gorro",
-        "id": 2
-      },
-      {
-        "pvp": 131.56,
-        "unidades": 4,
-        "articulo": "vestido",
-        "id": 3
-      },
-      {
-        "pvp": 198.28,
-        "unidades": 5,
-        "articulo": "camiseta",
-        "id": 4
-      }
-    ]
-  },
-  {
-    "_id": "552f8669dc3a241c5278c94e",
-    "pais": "Portugal",
-    "cadena": "puliber",
-    "tienda": 1379,
-    "hora": "2015-02-25",
-    "importe": 1589.94,
-    "ubicacion": {
-      "planta": 0,
-      "seccion": "Señora"
-    },
-    "productos": [
-      "ropa",
-      "perfumes",
-      "complementos",
-      "perfumes",
-      "calzado"
-    ],
-    "lineas": [
-      {
-        "pvp": 29.57,
-        "unidades": 5,
-        "articulo": "zapato",
-        "id": 0
-      },
-      {
-        "pvp": 43,
-        "unidades": 4,
-        "articulo": "traje",
-        "id": 1
-      },
-      {
-        "pvp": 146.32,
-        "unidades": 4,
-        "articulo": "falda",
-        "id": 2
-      },
-      {
-        "pvp": 237.87,
-        "unidades": 2,
-        "articulo": "chaqueta",
-        "id": 3
-      },
-      {
-        "pvp": 57.23,
-        "unidades": 2,
-        "articulo": "traje",
-        "id": 4
-      }
-    ]
-  },
-  {
-    "_id": "552f8669f31ca6c12c23b7f8",
-    "pais": "Italia",
-    "cadena": "puliber",
-    "tienda": 5244,
-    "hora": "2015-01-15",
-    "importe": 778.29,
-    "ubicacion": {
-      "planta": 2,
-      "seccion": "Caballero"
-    },
-    "productos": [
-      "calzado",
-      "ropa",
-      "perfumes",
-      "calzado",
-      "calzado"
-    ],
-    "lineas": [
-      {
-        "pvp": 168.85,
-        "unidades": 1,
-        "articulo": "colonia",
-        "id": 0
-      },
-      {
-        "pvp": 35.1,
-        "unidades": 1,
-        "articulo": "traje",
-        "id": 1
-      },
-      {
-        "pvp": 197.56,
-        "unidades": 3,
-        "articulo": "chaqueta",
-        "id": 2
-      },
-      {
-        "pvp": 198.46,
-        "unidades": 2,
-        "articulo": "camiseta",
-        "id": 3
-      },
-      {
-        "pvp": 80.36,
-        "unidades": 5,
-        "articulo": "zapato",
-        "id": 4
-      }
-    ]
-  },
-  {
-    "_id": "552f86698b881889fabaaf86",
-    "pais": "Francia",
-    "cadena": "duti",
-    "tienda": 9727,
-    "hora": "2015-01-12",
-    "importe": 2466.37,
-    "ubicacion": {
-      "planta": 1,
-      "seccion": "Niño"
-    },
-    "productos": [
-      "complementos",
-      "ropa",
-      "ropa",
-      "ropa",
-      "ropa"
-    ],
-    "lineas": [
-      {
-        "pvp": 44.98,
-        "unidades": 1,
-        "articulo": "gorro",
-        "id": 0
-      },
-      {
-        "pvp": 250.06,
-        "unidades": 5,
-        "articulo": "traje",
-        "id": 1
-      },
-      {
-        "pvp": 181.1,
-        "unidades": 4,
-        "articulo": "traje",
-        "id": 2
-      },
-      {
-        "pvp": 68,
-        "unidades": 5,
-        "articulo": "camisa",
-        "id": 3
-      },
-      {
-        "pvp": 159.18,
-        "unidades": 4,
-        "articulo": "falda",
-        "id": 4
-      }
-    ]
-  },
-  {
-    "_id": "552f8669383fb9183ae6685a",
-    "pais": "Alemania",
-    "cadena": "bresca",
-    "tienda": 9470,
-    "hora": "2015-03-10",
-    "importe": 2134.31,
-    "ubicacion": {
-      "planta": 0,
-      "seccion": "Caballero"
-    },
-    "productos": [
-      "ropa",
-      "calzado",
-      "complementos",
-      "complementos",
-      "perfumes"
-    ],
-    "lineas": [
-      {
-        "pvp": 162.09,
-        "unidades": 2,
-        "articulo": "zapato",
-        "id": 0
-      },
-      {
-        "pvp": 127.67,
-        "unidades": 3,
-        "articulo": "colonia",
-        "id": 1
-      },
-      {
-        "pvp": 200.43,
-        "unidades": 2,
-        "articulo": "gorro",
-        "id": 2
-      },
-      {
-        "pvp": 126.32,
-        "unidades": 2,
-        "articulo": "chaqueta",
-        "id": 3
-      },
-      {
-        "pvp": 165.43,
-        "unidades": 3,
-        "articulo": "colonia",
-        "id": 4
-      }
-    ]
-  },
-  {
-    "_id": "552f86691d167617be862e95",
-    "pais": "Rusia",
-    "cadena": "bresca",
-    "tienda": 2909,
-    "hora": "2015-01-19",
-    "importe": 6312.29,
-    "ubicacion": {
-      "planta": 2,
-      "seccion": "Caballero"
-    },
-    "productos": [
-      "ropa",
-      "ropa",
-      "ropa",
-      "complementos",
-      "ropa"
-    ],
-    "lineas": [
-      {
-        "pvp": 299.62,
-        "unidades": 4,
-        "articulo": "falda",
-        "id": 0
-      },
-      {
-        "pvp": 263.36,
-        "unidades": 2,
-        "articulo": "pantalón",
-        "id": 1
-      },
-      {
-        "pvp": 117.93,
-        "unidades": 4,
-        "articulo": "camiseta",
-        "id": 2
-      },
-      {
-        "pvp": 67.72,
-        "unidades": 5,
-        "articulo": "colonia",
-        "id": 3
-      },
-      {
-        "pvp": 241.52,
-        "unidades": 3,
-        "articulo": "chaqueta",
-        "id": 4
-      }
-    ]
-  },
-  {
-    "_id": "552f8669879ea09406c3b52c",
-    "pais": "Japon",
-    "cadena": "bresca",
-    "tienda": 1459,
-    "hora": "2015-02-18",
-    "importe": 9149.32,
-    "ubicacion": {
-      "planta": 0,
-      "seccion": "Caballero"
-    },
-    "productos": [
-      "ropa",
-      "ropa",
-      "complementos",
-      "calzado",
-      "complementos"
-    ],
-    "lineas": [
-      {
-        "pvp": 295.32,
-        "unidades": 1,
-        "articulo": "camisa",
-        "id": 0
-      },
-      {
-        "pvp": 51.7,
-        "unidades": 4,
-        "articulo": "falda",
-        "id": 1
-      },
-      {
-        "pvp": 207.87,
-        "unidades": 3,
-        "articulo": "traje",
-        "id": 2
-      },
-      {
-        "pvp": 254.65,
-        "unidades": 5,
-        "articulo": "camisa",
-        "id": 3
-      },
-      {
-        "pvp": 209.02,
-        "unidades": 1,
-        "articulo": "zapato",
-        "id": 4
-      }
-    ]
-  },
-  {
-    "_id": "552f8669ec0ce46122f530c8",
-    "pais": "Portugal",
-    "cadena": "bresca",
-    "tienda": 257,
-    "hora": "2015-01-11",
-    "importe": 7572.06,
-    "ubicacion": {
-      "planta": 0,
-      "seccion": "Niño"
-    },
-    "productos": [
-      "ropa",
-      "perfumes",
-      "complementos",
-      "calzado",
-      "perfumes"
-    ],
-    "lineas": [
-      {
-        "pvp": 239.49,
-        "unidades": 1,
-        "articulo": "traje",
-        "id": 0
-      },
-      {
-        "pvp": 12.33,
-        "unidades": 4,
-        "articulo": "zapato",
-        "id": 1
-      },
-      {
-        "pvp": 285.78,
-        "unidades": 3,
-        "articulo": "camisa",
-        "id": 2
-      },
-      {
-        "pvp": 98.92,
-        "unidades": 1,
-        "articulo": "traje",
-        "id": 3
-      },
-      {
-        "pvp": 44.99,
-        "unidades": 1,
-        "articulo": "traje",
-        "id": 4
-      }
-    ]
-  },
-  {
-    "_id": "552f8669a5c991f3a8666610",
-    "pais": "Italia",
-    "cadena": "puliber",
-    "tienda": 1740,
-    "hora": "2015-02-09",
-    "importe": 6932.5,
-    "ubicacion": {
-      "planta": 2,
-      "seccion": "Niño"
-    },
-    "productos": [
-      "complementos",
-      "complementos",
-      "calzado",
-      "calzado",
-      "ropa"
-    ],
-    "lineas": [
-      {
-        "pvp": 56.91,
-        "unidades": 5,
-        "articulo": "vestido",
-        "id": 0
-      },
-      {
-        "pvp": 54.3,
-        "unidades": 3,
-        "articulo": "pantalón",
-        "id": 1
-      },
-      {
-        "pvp": 121.53,
-        "unidades": 2,
-        "articulo": "camiseta",
-        "id": 2
-      },
-      {
-        "pvp": 211.44,
-        "unidades": 1,
-        "articulo": "colonia",
-        "id": 3
-      },
-      {
-        "pvp": 122.33,
-        "unidades": 5,
-        "articulo": "falda",
-        "id": 4
-      }
-    ]
-  },
-  {
-    "_id": "552f866901ff26f34b25fc13",
-    "pais": "Brasil",
-    "cadena": "zarra",
-    "tienda": 6463,
-    "hora": "2015-02-18",
-    "importe": 746.13,
-    "ubicacion": {
-      "planta": 2,
-      "seccion": "Caballero"
-    },
-    "productos": [
-      "ropa",
-      "complementos",
-      "perfumes",
-      "ropa",
-      "complementos"
-    ],
-    "lineas": [
-      {
-        "pvp": 58.84,
-        "unidades": 3,
-        "articulo": "chaqueta",
-        "id": 0
-      },
-      {
-        "pvp": 103.29,
-        "unidades": 1,
-        "articulo": "falda",
-        "id": 1
-      },
-      {
-        "pvp": 152.43,
-        "unidades": 5,
-        "articulo": "zapato",
-        "id": 2
-      },
-      {
-        "pvp": 85.38,
-        "unidades": 2,
-        "articulo": "chaqueta",
-        "id": 3
-      },
-      {
-        "pvp": 292.3,
-        "unidades": 5,
-        "articulo": "vestido",
-        "id": 4
-      }
-    ]
-  },
-  {
-    "_id": "552f86691efcb301a31fbb0a",
-    "pais": "Alemania",
-    "cadena": "duti",
-    "tienda": 2639,
-    "hora": "2015-03-01",
-    "importe": 5199.66,
-    "ubicacion": {
-      "planta": 1,
-      "seccion": "Señora"
-    },
-    "productos": [
-      "ropa",
-      "calzado",
-      "calzado",
-      "complementos",
-      "complementos"
-    ],
-    "lineas": [
-      {
-        "pvp": 150.07,
-        "unidades": 3,
-        "articulo": "camisa",
-        "id": 0
-      },
-      {
-        "pvp": 258.51,
-        "unidades": 1,
-        "articulo": "zapato",
-        "id": 1
-      },
-      {
-        "pvp": 297.47,
-        "unidades": 2,
-        "articulo": "traje",
-        "id": 2
-      },
-      {
-        "pvp": 32.38,
-        "unidades": 4,
-        "articulo": "gorro",
-        "id": 3
-      },
-      {
-        "pvp": 146.77,
-        "unidades": 5,
-        "articulo": "vestido",
-        "id": 4
-      }
-    ]
-  },
-  {
-    "_id": "552f86698084297ea9162656",
-    "pais": "Portugal",
-    "cadena": "bresca",
-    "tienda": 6889,
-    "hora": "2015-01-16",
-    "importe": 6808.64,
-    "ubicacion": {
-      "planta": 1,
-      "seccion": "Caballero"
-    },
-    "productos": [
-      "calzado",
-      "perfumes",
-      "perfumes",
-      "ropa",
-      "complementos"
-    ],
-    "lineas": [
-      {
-        "pvp": 173.75,
-        "unidades": 5,
-        "articulo": "colonia",
-        "id": 0
-      },
-      {
-        "pvp": 215.21,
-        "unidades": 3,
-        "articulo": "chaqueta",
-        "id": 1
-      },
-      {
-        "pvp": 204.61,
-        "unidades": 1,
-        "articulo": "gorro",
-        "id": 2
-      },
-      {
-        "pvp": 299.89,
-        "unidades": 5,
-        "articulo": "camiseta",
-        "id": 3
-      },
-      {
-        "pvp": 248.24,
-        "unidades": 4,
-        "articulo": "vestido",
-        "id": 4
-      }
-    ]
-  },
-  {
-    "_id": "552f866947415720befe4c95",
-    "pais": "USA",
-    "cadena": "duti",
-    "tienda": 1398,
-    "hora": "2015-01-11",
-    "importe": 914.03,
-    "ubicacion": {
-      "planta": 2,
-      "seccion": "Niño"
-    },
-    "productos": [
-      "perfumes",
-      "complementos",
-      "calzado",
-      "complementos",
-      "ropa"
-    ],
-    "lineas": [
-      {
-        "pvp": 103.58,
-        "unidades": 5,
-        "articulo": "falda",
-        "id": 0
-      },
-      {
-        "pvp": 44.45,
-        "unidades": 2,
-        "articulo": "zapato",
-        "id": 1
-      },
-      {
-        "pvp": 209.62,
-        "unidades": 5,
-        "articulo": "camiseta",
-        "id": 2
-      },
-      {
-        "pvp": 270.9,
-        "unidades": 4,
-        "articulo": "gorro",
-        "id": 3
-      },
-      {
-        "pvp": 69.53,
-        "unidades": 1,
-        "articulo": "traje",
-        "id": 4
-      }
-    ]
-  },
-  {
-    "_id": "552f86696483632fc497eb52",
-    "pais": "Japon",
-    "cadena": "zarra",
-    "tienda": 3448,
-    "hora": "2015-01-13",
-    "importe": 7680.82,
-    "ubicacion": {
-      "planta": 0,
-      "seccion": "Caballero"
-    },
-    "productos": [
-      "calzado",
-      "ropa",
-      "calzado",
-      "perfumes",
-      "complementos"
-    ],
-    "lineas": [
-      {
-        "pvp": 108.66,
-        "unidades": 5,
-        "articulo": "vestido",
-        "id": 0
-      },
-      {
-        "pvp": 276.99,
-        "unidades": 4,
-        "articulo": "camisa",
-        "id": 1
-      },
-      {
-        "pvp": 63.07,
-        "unidades": 1,
-        "articulo": "camiseta",
-        "id": 2
-      },
-      {
-        "pvp": 222.87,
-        "unidades": 2,
-        "articulo": "traje",
-        "id": 3
-      },
-      {
-        "pvp": 45.19,
-        "unidades": 4,
-        "articulo": "pantalón",
-        "id": 4
-      }
-    ]
-  },
-  {
-    "_id": "552f8669b139858e3729221c",
-    "pais": "Mexico",
-    "cadena": "bresca",
-    "tienda": 9855,
-    "hora": "2015-01-03",
-    "importe": 2808.89,
-    "ubicacion": {
-      "planta": 2,
-      "seccion": "Niño"
-    },
-    "productos": [
-      "complementos",
-      "perfumes",
-      "perfumes",
-      "complementos",
-      "complementos"
-    ],
-    "lineas": [
-      {
-        "pvp": 289.53,
-        "unidades": 1,
-        "articulo": "colonia",
-        "id": 0
-      },
-      {
-        "pvp": 281.62,
-        "unidades": 5,
-        "articulo": "camisa",
-        "id": 1
-      },
-      {
-        "pvp": 123.33,
-        "unidades": 5,
-        "articulo": "zapato",
-        "id": 2
-      },
-      {
-        "pvp": 121.04,
-        "unidades": 5,
-        "articulo": "zapato",
-        "id": 3
-      },
-      {
-        "pvp": 25.07,
-        "unidades": 5,
-        "articulo": "vestido",
-        "id": 4
-      }
-    ]
-  },
-  {
-    "_id": "552f8669296031dd150ab7f5",
-    "pais": "UK",
-    "cadena": "duti",
-    "tienda": 5685,
-    "hora": "2015-02-14",
-    "importe": 5633.06,
-    "ubicacion": {
-      "planta": 1,
-      "seccion": "Caballero"
-    },
-    "productos": [
-      "complementos",
-      "calzado",
-      "complementos",
-      "perfumes",
-      "complementos"
-    ],
-    "lineas": [
-      {
-        "pvp": 29.5,
-        "unidades": 3,
-        "articulo": "chaqueta",
-        "id": 0
-      },
-      {
-        "pvp": 82.7,
-        "unidades": 3,
-        "articulo": "chaqueta",
-        "id": 1
-      },
-      {
-        "pvp": 194.74,
-        "unidades": 1,
-        "articulo": "falda",
-        "id": 2
-      },
-      {
-        "pvp": 117.49,
-        "unidades": 4,
-        "articulo": "chaqueta",
-        "id": 3
-      },
-      {
-        "pvp": 288.96,
-        "unidades": 2,
-        "articulo": "gorro",
-        "id": 4
-      }
-    ]
-  },
-  {
-    "_id": "552f8669e2e31ede845d7d1a",
-    "pais": "UK",
-    "cadena": "duti",
-    "tienda": 2919,
-    "hora": "2015-02-10",
-    "importe": 6852.51,
-    "ubicacion": {
-      "planta": 1,
-      "seccion": "Caballero"
-    },
-    "productos": [
-      "calzado",
-      "complementos",
-      "complementos",
-      "ropa",
-      "calzado"
-    ],
-    "lineas": [
-      {
-        "pvp": 144.74,
-        "unidades": 1,
-        "articulo": "camiseta",
-        "id": 0
-      },
-      {
-        "pvp": 97.03,
-        "unidades": 1,
-        "articulo": "falda",
-        "id": 1
-      },
-      {
-        "pvp": 81.36,
-        "unidades": 3,
-        "articulo": "vestido",
-        "id": 2
-      },
-      {
-        "pvp": 244.64,
-        "unidades": 3,
-        "articulo": "gorro",
-        "id": 3
-      },
-      {
-        "pvp": 269.69,
-        "unidades": 5,
-        "articulo": "camisa",
-        "id": 4
-      }
-    ]
-  },
-  {
-    "_id": "552f86696d78cdc2bcd6a09a",
-    "pais": "China",
-    "cadena": "zarra",
-    "tienda": 8667,
-    "hora": "2015-02-13",
-    "importe": 8834.27,
-    "ubicacion": {
-      "planta": 1,
-      "seccion": "Señora"
-    },
-    "productos": [
-      "perfumes",
-      "ropa",
-      "perfumes",
-      "complementos",
-      "perfumes"
-    ],
-    "lineas": [
-      {
-        "pvp": 190.65,
-        "unidades": 2,
-        "articulo": "colonia",
-        "id": 0
-      },
-      {
-        "pvp": 220.07,
-        "unidades": 5,
-        "articulo": "gorro",
-        "id": 1
-      },
-      {
-        "pvp": 153.83,
-        "unidades": 4,
-        "articulo": "zapato",
-        "id": 2
-      },
-      {
-        "pvp": 162.82,
-        "unidades": 5,
-        "articulo": "camiseta",
-        "id": 3
-      },
-      {
-        "pvp": 228.28,
-        "unidades": 4,
-        "articulo": "falda",
-        "id": 4
-      }
-    ]
-  },
-  {
-    "_id": "552f86693321f7cdbd600469",
-    "pais": "Portugal",
-    "cadena": "zarra",
-    "tienda": 1563,
-    "hora": "2015-01-29",
-    "importe": 3537.63,
-    "ubicacion": {
-      "planta": 0,
-      "seccion": "Niño"
-    },
-    "productos": [
-      "complementos",
-      "calzado",
-      "perfumes",
-      "perfumes",
-      "complementos"
-    ],
-    "lineas": [
-      {
-        "pvp": 95.66,
-        "unidades": 4,
-        "articulo": "colonia",
-        "id": 0
-      },
-      {
-        "pvp": 92.36,
-        "unidades": 3,
-        "articulo": "pantalón",
-        "id": 1
-      },
-      {
-        "pvp": 179.26,
-        "unidades": 1,
-        "articulo": "zapato",
-        "id": 2
-      },
-      {
-        "pvp": 43.65,
-        "unidades": 2,
-        "articulo": "gorro",
-        "id": 3
-      },
-      {
-        "pvp": 265.78,
-        "unidades": 2,
-        "articulo": "traje",
-        "id": 4
-      }
-    ]
-  },
-  {
-    "_id": "552f86698a9e2f52d1391b0e",
-    "pais": "España",
-    "cadena": "zarra",
-    "tienda": 9489,
-    "hora": "2015-02-24",
-    "importe": 4041.5,
-    "ubicacion": {
-      "planta": 2,
-      "seccion": "Caballero"
-    },
-    "productos": [
-      "ropa",
-      "ropa",
-      "complementos",
-      "calzado",
-      "complementos"
-    ],
-    "lineas": [
-      {
-        "pvp": 155.32,
-        "unidades": 1,
-        "articulo": "vestido",
-        "id": 0
-      },
-      {
-        "pvp": 71.75,
-        "unidades": 2,
-        "articulo": "vestido",
-        "id": 1
-      },
-      {
-        "pvp": 45.64,
-        "unidades": 4,
-        "articulo": "zapato",
-        "id": 2
-      },
-      {
-        "pvp": 221.29,
-        "unidades": 3,
-        "articulo": "colonia",
-        "id": 3
-      },
-      {
-        "pvp": 160.6,
-        "unidades": 2,
-        "articulo": "pantalón",
-        "id": 4
-      }
-    ]
-  },
-  {
-    "_id": "552f86694a8913359fc765db",
-    "pais": "Mexico",
-    "cadena": "zarra",
-    "tienda": 5552,
-    "hora": "2015-03-22",
-    "importe": 3485.94,
-    "ubicacion": {
-      "planta": 2,
-      "seccion": "Niño"
-    },
-    "productos": [
-      "perfumes",
-      "calzado",
-      "ropa",
-      "ropa",
-      "complementos"
-    ],
-    "lineas": [
-      {
-        "pvp": 44.57,
-        "unidades": 4,
-        "articulo": "vestido",
-        "id": 0
-      },
-      {
-        "pvp": 142.58,
-        "unidades": 1,
-        "articulo": "camiseta",
-        "id": 1
-      },
-      {
-        "pvp": 142.08,
-        "unidades": 2,
-        "articulo": "gorro",
-        "id": 2
-      },
-      {
-        "pvp": 180.31,
-        "unidades": 4,
-        "articulo": "chaqueta",
-        "id": 3
-      },
-      {
-        "pvp": 83.16,
-        "unidades": 5,
-        "articulo": "camisa",
-        "id": 4
-      }
-    ]
-  },
-  {
-    "_id": "552f8669b4b54cfd4fa76ea6",
-    "pais": "Italia",
-    "cadena": "zarra",
-    "tienda": 8617,
-    "hora": "2015-02-25",
-    "importe": 4325.87,
-    "ubicacion": {
-      "planta": 0,
-      "seccion": "Caballero"
-    },
-    "productos": [
-      "ropa",
-      "calzado",
-      "ropa",
-      "perfumes",
-      "perfumes"
-    ],
-    "lineas": [
-      {
-        "pvp": 59.43,
-        "unidades": 2,
-        "articulo": "traje",
-        "id": 0
-      },
-      {
-        "pvp": 31.4,
-        "unidades": 3,
-        "articulo": "chaqueta",
-        "id": 1
-      },
-      {
-        "pvp": 77.69,
-        "unidades": 2,
-        "articulo": "camiseta",
-        "id": 2
-      },
-      {
-        "pvp": 18.32,
-        "unidades": 4,
-        "articulo": "pantalón",
-        "id": 3
-      },
-      {
-        "pvp": 22.46,
-        "unidades": 4,
-        "articulo": "pantalón",
-        "id": 4
-      }
-    ]
-  },
-  {
-    "_id": "552f8669021bae7a3b3d97eb",
-    "pais": "UK",
-    "cadena": "zarra",
-    "tienda": 2612,
-    "hora": "2015-01-28",
-    "importe": 6077.71,
-    "ubicacion": {
-      "planta": 0,
-      "seccion": "Niño"
-    },
-    "productos": [
-      "calzado",
-      "complementos",
-      "ropa",
-      "calzado",
-      "perfumes"
-    ],
-    "lineas": [
-      {
-        "pvp": 279.57,
-        "unidades": 4,
-        "articulo": "chaqueta",
-        "id": 0
-      },
-      {
-        "pvp": 157.31,
-        "unidades": 4,
-        "articulo": "traje",
-        "id": 1
-      },
-      {
-        "pvp": 233.3,
-        "unidades": 3,
-        "articulo": "camiseta",
-        "id": 2
-      },
-      {
-        "pvp": 56.57,
-        "unidades": 3,
-        "articulo": "falda",
-        "id": 3
-      },
-      {
-        "pvp": 29.71,
-        "unidades": 2,
-        "articulo": "vestido",
-        "id": 4
-      }
-    ]
-  },
-  {
-    "_id": "552f86698c5b5534fdd40f6e",
-    "pais": "USA",
-    "cadena": "bresca",
-    "tienda": 2221,
-    "hora": "2015-03-22",
-    "importe": 936.41,
-    "ubicacion": {
-      "planta": 2,
-      "seccion": "Señora"
-    },
-    "productos": [
-      "perfumes",
-      "ropa",
-      "complementos",
-      "ropa",
-      "complementos"
-    ],
-    "lineas": [
-      {
-        "pvp": 224.38,
-        "unidades": 1,
-        "articulo": "gorro",
-        "id": 0
-      },
-      {
-        "pvp": 143.73,
-        "unidades": 3,
-        "articulo": "falda",
-        "id": 1
-      },
-      {
-        "pvp": 269.03,
-        "unidades": 2,
-        "articulo": "gorro",
-        "id": 2
-      },
-      {
-        "pvp": 267.16,
-        "unidades": 2,
-        "articulo": "chaqueta",
-        "id": 3
-      },
-      {
-        "pvp": 62.86,
-        "unidades": 5,
-        "articulo": "pantalón",
-        "id": 4
-      }
-    ]
-  },
-  {
-    "_id": "552f8669ab12b75364a3aa8c",
-    "pais": "Brasil",
-    "cadena": "bresca",
-    "tienda": 241,
-    "hora": "2015-03-11",
-    "importe": 2871.33,
-    "ubicacion": {
-      "planta": 1,
-      "seccion": "Niño"
-    },
-    "productos": [
-      "ropa",
-      "perfumes",
-      "perfumes",
-      "perfumes",
-      "perfumes"
-    ],
-    "lineas": [
-      {
-        "pvp": 30.91,
-        "unidades": 3,
-        "articulo": "gorro",
-        "id": 0
-      },
-      {
-        "pvp": 251.13,
-        "unidades": 3,
-        "articulo": "chaqueta",
-        "id": 1
-      },
-      {
-        "pvp": 21.24,
-        "unidades": 2,
-        "articulo": "camiseta",
-        "id": 2
-      },
-      {
-        "pvp": 36.6,
-        "unidades": 5,
-        "articulo": "camisa",
-        "id": 3
-      },
-      {
-        "pvp": 299.69,
-        "unidades": 5,
-        "articulo": "chaqueta",
-        "id": 4
-      }
-    ]
-  },
-  {
-    "_id": "552f8669138baf2bba0b1121",
-    "pais": "Francia",
-    "cadena": "duti",
-    "tienda": 792,
-    "hora": "2015-02-13",
-    "importe": 3306.52,
-    "ubicacion": {
-      "planta": 1,
-      "seccion": "Señora"
-    },
-    "productos": [
-      "perfumes",
-      "ropa",
-      "perfumes",
-      "complementos",
-      "complementos"
-    ],
-    "lineas": [
-      {
-        "pvp": 166.63,
-        "unidades": 2,
-        "articulo": "chaqueta",
-        "id": 0
-      },
-      {
-        "pvp": 209.4,
-        "unidades": 1,
-        "articulo": "vestido",
-        "id": 1
-      },
-      {
-        "pvp": 220.79,
-        "unidades": 2,
-        "articulo": "camiseta",
-        "id": 2
-      },
-      {
-        "pvp": 36.42,
-        "unidades": 5,
-        "articulo": "falda",
-        "id": 3
-      },
-      {
-        "pvp": 90.38,
-        "unidades": 5,
-        "articulo": "colonia",
-        "id": 4
-      }
-    ]
-  },
-  {
-    "_id": "552f866929b2203cc79f4df1",
-    "pais": "Rusia",
-    "cadena": "puliber",
-    "tienda": 3944,
-    "hora": "2015-01-03",
-    "importe": 8626.01,
-    "ubicacion": {
-      "planta": 2,
-      "seccion": "Caballero"
-    },
-    "productos": [
-      "calzado",
-      "complementos",
-      "complementos",
-      "perfumes",
-      "ropa"
-    ],
-    "lineas": [
-      {
-        "pvp": 149.68,
-        "unidades": 4,
-        "articulo": "zapato",
-        "id": 0
-      },
-      {
-        "pvp": 259.3,
-        "unidades": 5,
-        "articulo": "camiseta",
-        "id": 1
-      },
-      {
-        "pvp": 160.9,
-        "unidades": 1,
-        "articulo": "gorro",
-        "id": 2
-      },
-      {
-        "pvp": 222.01,
-        "unidades": 4,
-        "articulo": "pantalón",
-        "id": 3
-      },
-      {
-        "pvp": 203.46,
-        "unidades": 3,
-        "articulo": "pantalón",
-        "id": 4
-      }
-    ]
-  },
-  {
-    "_id": "552f86695e5c6d207efce75a",
-    "pais": "Francia",
-    "cadena": "puliber",
-    "tienda": 6557,
-    "hora": "2015-02-22",
-    "importe": 7421.21,
-    "ubicacion": {
-      "planta": 0,
-      "seccion": "Niño"
-    },
-    "productos": [
-      "calzado",
-      "complementos",
-      "complementos",
-      "complementos",
-      "calzado"
-    ],
-    "lineas": [
-      {
-        "pvp": 202.66,
-        "unidades": 1,
-        "articulo": "colonia",
-        "id": 0
-      },
-      {
-        "pvp": 119.74,
-        "unidades": 1,
-        "articulo": "traje",
-        "id": 1
-      },
-      {
-        "pvp": 188.99,
-        "unidades": 1,
-        "articulo": "pantalón",
-        "id": 2
-      },
-      {
-        "pvp": 280.15,
-        "unidades": 4,
-        "articulo": "pantalón",
-        "id": 3
-      },
-      {
-        "pvp": 186.1,
-        "unidades": 1,
-        "articulo": "vestido",
-        "id": 4
-      }
-    ]
-  },
-  {
-    "_id": "552f86692ef583127a67a2a9",
-    "pais": "USA",
-    "cadena": "zarra",
-    "tienda": 4614,
-    "hora": "2015-04-08",
-    "importe": 337.4,
-    "ubicacion": {
-      "planta": 2,
-      "seccion": "Caballero"
-    },
-    "productos": [
-      "calzado",
-      "complementos",
-      "calzado",
-      "perfumes",
-      "perfumes"
-    ],
-    "lineas": [
-      {
-        "pvp": 200.92,
-        "unidades": 1,
-        "articulo": "vestido",
-        "id": 0
-      },
-      {
-        "pvp": 31.07,
-        "unidades": 3,
-        "articulo": "chaqueta",
-        "id": 1
-      },
-      {
-        "pvp": 15.97,
-        "unidades": 5,
-        "articulo": "gorro",
-        "id": 2
-      },
-      {
-        "pvp": 121.29,
-        "unidades": 3,
-        "articulo": "camisa",
-        "id": 3
-      },
-      {
-        "pvp": 167.78,
-        "unidades": 5,
-        "articulo": "colonia",
-        "id": 4
-      }
-    ]
-  },
-  {
-    "_id": "552f8669154bb7380e67a3fa",
-    "pais": "Japon",
-    "cadena": "puliber",
-    "tienda": 4275,
-    "hora": "2015-02-19",
-    "importe": 6387.76,
-    "ubicacion": {
-      "planta": 0,
-      "seccion": "Niño"
-    },
-    "productos": [
-      "calzado",
-      "ropa",
-      "perfumes",
-      "calzado",
-      "perfumes"
-    ],
-    "lineas": [
-      {
-        "pvp": 87.38,
-        "unidades": 4,
-        "articulo": "traje",
-        "id": 0
-      },
-      {
-        "pvp": 169.19,
-        "unidades": 1,
-        "articulo": "camiseta",
-        "id": 1
-      },
-      {
-        "pvp": 171.03,
-        "unidades": 2,
-        "articulo": "camiseta",
-        "id": 2
-      },
-      {
-        "pvp": 15.15,
-        "unidades": 4,
-        "articulo": "vestido",
-        "id": 3
-      },
-      {
-        "pvp": 236.79,
-        "unidades": 1,
-        "articulo": "falda",
-        "id": 4
-      }
-    ]
-  },
-  {
-    "_id": "552f8669d4b78ac70a9d07fa",
-    "pais": "UK",
-    "cadena": "bresca",
-    "tienda": 3615,
-    "hora": "2015-01-10",
-    "importe": 8769.81,
-    "ubicacion": {
-      "planta": 0,
-      "seccion": "Señora"
-    },
-    "productos": [
-      "calzado",
-      "ropa",
-      "calzado",
-      "calzado",
-      "perfumes"
-    ],
-    "lineas": [
-      {
-        "pvp": 204.94,
-        "unidades": 4,
-        "articulo": "chaqueta",
-        "id": 0
-      },
-      {
-        "pvp": 131.71,
-        "unidades": 2,
-        "articulo": "pantalón",
-        "id": 1
-      },
-      {
-        "pvp": 73.75,
-        "unidades": 3,
-        "articulo": "gorro",
-        "id": 2
-      },
-      {
-        "pvp": 278.98,
-        "unidades": 1,
-        "articulo": "camiseta",
-        "id": 3
-      },
-      {
-        "pvp": 266.19,
-        "unidades": 2,
-        "articulo": "falda",
-        "id": 4
-      }
-    ]
-  },
-  {
-    "_id": "552f8669b91d13dbdcf376a6",
-    "pais": "UK",
-    "cadena": "puliber",
-    "tienda": 7352,
-    "hora": "2015-04-06",
-    "importe": 9117.79,
-    "ubicacion": {
-      "planta": 2,
-      "seccion": "Niño"
-    },
-    "productos": [
-      "ropa",
-      "calzado",
-      "calzado",
-      "calzado",
-      "calzado"
-    ],
-    "lineas": [
-      {
-        "pvp": 212.24,
-        "unidades": 5,
-        "articulo": "zapato",
-        "id": 0
-      },
-      {
-        "pvp": 240.69,
-        "unidades": 5,
-        "articulo": "pantalón",
-        "id": 1
-      },
-      {
-        "pvp": 24.31,
-        "unidades": 2,
-        "articulo": "camisa",
-        "id": 2
-      },
-      {
-        "pvp": 57.09,
-        "unidades": 4,
-        "articulo": "pantalón",
-        "id": 3
-      },
-      {
-        "pvp": 153.76,
-        "unidades": 2,
-        "articulo": "chaqueta",
-        "id": 4
-      }
-    ]
-  },
-  {
-    "_id": "552f8669adcd64c0597d2c36",
-    "pais": "España",
-    "cadena": "puliber",
-    "tienda": 8968,
-    "hora": "2015-01-21",
-    "importe": 4297.43,
-    "ubicacion": {
-      "planta": 0,
-      "seccion": "Caballero"
-    },
-    "productos": [
-      "complementos",
-      "ropa",
-      "ropa",
-      "perfumes",
-      "ropa"
-    ],
-    "lineas": [
-      {
-        "pvp": 77.99,
-        "unidades": 3,
-        "articulo": "colonia",
-        "id": 0
-      },
-      {
-        "pvp": 281.66,
-        "unidades": 4,
-        "articulo": "camiseta",
-        "id": 1
-      },
-      {
-        "pvp": 223.53,
-        "unidades": 1,
-        "articulo": "colonia",
-        "id": 2
-      },
-      {
-        "pvp": 278.19,
-        "unidades": 1,
-        "articulo": "vestido",
-        "id": 3
-      },
-      {
-        "pvp": 117.31,
-        "unidades": 2,
-        "articulo": "chaqueta",
-        "id": 4
-      }
-    ]
-  },
-  {
-    "_id": "552f866923fe87575485daf1",
-    "pais": "China",
-    "cadena": "zarra",
-    "tienda": 8680,
-    "hora": "2015-04-06",
-    "importe": 4963.15,
-    "ubicacion": {
-      "planta": 1,
-      "seccion": "Niño"
-    },
-    "productos": [
-      "complementos",
-      "perfumes",
-      "calzado",
-      "calzado",
-      "ropa"
-    ],
-    "lineas": [
-      {
-        "pvp": 113.74,
-        "unidades": 2,
-        "articulo": "colonia",
-        "id": 0
-      },
-      {
-        "pvp": 26.41,
-        "unidades": 1,
-        "articulo": "falda",
-        "id": 1
-      },
-      {
-        "pvp": 162.04,
-        "unidades": 4,
-        "articulo": "camiseta",
-        "id": 2
-      },
-      {
-        "pvp": 116.3,
-        "unidades": 1,
-        "articulo": "traje",
-        "id": 3
-      },
-      {
-        "pvp": 101.91,
-        "unidades": 3,
-        "articulo": "chaqueta",
-        "id": 4
-      }
-    ]
-  },
-  {
-    "_id": "552f86694d890513db481a2e",
-    "pais": "USA",
-    "cadena": "zarra",
-    "tienda": 4850,
-    "hora": "2015-03-09",
-    "importe": 5226.21,
-    "ubicacion": {
-      "planta": 2,
-      "seccion": "Señora"
-    },
-    "productos": [
-      "complementos",
-      "perfumes",
-      "perfumes",
-      "perfumes",
-      "calzado"
-    ],
-    "lineas": [
-      {
-        "pvp": 19.51,
-        "unidades": 5,
-        "articulo": "gorro",
-        "id": 0
-      },
-      {
-        "pvp": 137.19,
-        "unidades": 2,
-        "articulo": "pantalón",
-        "id": 1
-      },
-      {
-        "pvp": 224.69,
-        "unidades": 2,
-        "articulo": "falda",
-        "id": 2
-      },
-      {
-        "pvp": 184.4,
-        "unidades": 5,
-        "articulo": "pantalón",
-        "id": 3
-      },
-      {
-        "pvp": 163.92,
-        "unidades": 5,
-        "articulo": "falda",
-        "id": 4
-      }
-    ]
-  },
-  {
-    "_id": "552f8669c101089a6c1afcbc",
-    "pais": "España",
-    "cadena": "duti",
-    "tienda": 1919,
-    "hora": "2015-03-04",
-    "importe": 1275.15,
-    "ubicacion": {
-      "planta": 1,
-      "seccion": "Niño"
-    },
-    "productos": [
-      "perfumes",
-      "complementos",
-      "calzado",
-      "perfumes",
-      "complementos"
-    ],
-    "lineas": [
-      {
-        "pvp": 60.91,
-        "unidades": 3,
-        "articulo": "vestido",
-        "id": 0
-      },
-      {
-        "pvp": 273.88,
-        "unidades": 2,
-        "articulo": "zapato",
-        "id": 1
-      },
-      {
-        "pvp": 67.67,
-        "unidades": 1,
-        "articulo": "pantalón",
-        "id": 2
-      },
-      {
-        "pvp": 97.35,
-        "unidades": 3,
-        "articulo": "camiseta",
-        "id": 3
-      },
-      {
-        "pvp": 123.88,
-        "unidades": 5,
-        "articulo": "falda",
-        "id": 4
-      }
-    ]
-  },
-  {
-    "_id": "552f8669a755d9a7c99d79e8",
-    "pais": "Japon",
-    "cadena": "zarra",
-    "tienda": 1896,
-    "hora": "2015-01-19",
-    "importe": 5358.43,
-    "ubicacion": {
-      "planta": 0,
-      "seccion": "Caballero"
-    },
-    "productos": [
-      "calzado",
-      "ropa",
-      "calzado",
-      "complementos",
-      "perfumes"
-    ],
-    "lineas": [
-      {
-        "pvp": 211.03,
-        "unidades": 4,
-        "articulo": "vestido",
-        "id": 0
-      },
-      {
-        "pvp": 286.02,
-        "unidades": 1,
-        "articulo": "gorro",
-        "id": 1
-      },
-      {
-        "pvp": 75.36,
-        "unidades": 4,
-        "articulo": "falda",
-        "id": 2
-      },
-      {
-        "pvp": 154.3,
-        "unidades": 2,
-        "articulo": "camiseta",
-        "id": 3
-      },
-      {
-        "pvp": 84.52,
-        "unidades": 1,
-        "articulo": "camiseta",
-        "id": 4
-      }
-    ]
-  }
-]

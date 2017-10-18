@@ -508,48 +508,4 @@
         "id": 4
       }
     ]
-  },
-  {
-    "_id": "552f866923a3d530b807ac62",
-    "country": "Italy",
-    "string": "puliber",
-    "store": 1905,
-    "time": "2015-03-13",
-    "amount": 6302.52,
-    "location": {
-      "floor": 1,
-      "section": "Knight"
-    },
-    "products": [
-      "clothing",
-      "perfumes",
-      "footwear",
-      "add-ins",
-      "perfumes"
-    ],
-    "lines": [
-      {
-        "pvp": 282.91,
-        "units": 3,
-        "item": "shoe",
-        "id": 0
-      },
-      {
-        "pvp": 224.24,
-        "units": 1,
-        "item": "hat",
-        "id": 1
-      },
-      {
-        "pvp": 33.7,
-        "units": 3,
-        "item": "clothing",
-        "id": 2
-      },
-      {
-        "pvp": 277.09,
-        "units": 5,
-        "item": "skirt",
-        "id": 3
-      },
-      {
+  }]

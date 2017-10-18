@@ -515,41 +515,5 @@
         "id": 4
       }
     ]
-  },
-  {
-    "_id": "552f820b63e842060e0ef9fc",
-    "country": "Germany",
-    "string": "bresca",
-    "store": 6446,
-    "time": "2015-03-20",
-    "amount": 1801.58,
-    "products": [
-      "footwear",
-      "add-ins",
-      "footwear",
-      "add-ins",
-      "perfumes"
-    ],
-    "lines": [
-      {
-        "pvp": 50.93,
-        "units": 3,
-        "item": "skirt",
-        "id": 0
-      },
-      {
-        "pvp": 29.17,
-        "units": 4,
-        "item": "pants",
-        "id": 1
-      },
-      {
-        "pvp": 101.22,
-        "units": 5,
-        "item": "suit",
-        "id": 2
-      },
-      {
-        "pvp": 109.4,
-        "units": 2,
-        "item": "jacket",
+  }
+]
